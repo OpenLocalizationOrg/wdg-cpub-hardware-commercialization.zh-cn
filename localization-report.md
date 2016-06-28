@@ -1215,6 +1215,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.xlf](https://github.com/OpenLocalizationOrg/wdg-test.handback/blob/7e84640d85a07c26f8628d3e73c2033b56e78d79/ol-handback/zh-cn.wdg-cpub-hardware-commercialization/docset/index.xlf)
 * Handback Datetime: 2016-06-28 09:22:36
+* Bilingual File: [index.xlf](https://github.com/OpenLocalizationOrg/wdg-test.handback/blob/7e84640d85a07c26f8628d3e73c2033b56e78d79/ol-handback/zh-cn.wdg-cpub-hardware-commercialization/docset/index.xlf)
+* Bilingual Datetime: 2016-06-28 09:22:54
 * [Back to Top](#report-top)
 
 ##### <a name='3d1e3af0bb0e504b0b22fdb2efa59f367cb04efb7'></a> Source: [docset\manufacture\desktop\add-a-custom-script-to-windows-setup.md](https://github.com/OpenLocalizationOrg/wdg-cpub-hardware-commercialization/blob/55771f33eaddd13a2398c4b59bf1da17c387d3bf/docset/manufacture/desktop/add-a-custom-script-to-windows-setup.md)
@@ -14584,6 +14586,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [TOC.xlf](https://github.com/OpenLocalizationOrg/wdg-test.handback/blob/7e84640d85a07c26f8628d3e73c2033b56e78d79/ol-handback/zh-cn.wdg-cpub-hardware-commercialization/docset/TOC.xlf)
 * Handback Datetime: 2016-06-28 09:22:36
+* Bilingual File: [TOC.xlf](https://github.com/OpenLocalizationOrg/wdg-test.handback/blob/7e84640d85a07c26f8628d3e73c2033b56e78d79/ol-handback/zh-cn.wdg-cpub-hardware-commercialization/docset/TOC.xlf)
+* Bilingual Datetime: 2016-06-28 09:22:54
 * [Back to Top](#report-top)
 
 ##### <a name='4a78e3531ea85da5fc217c0ed711d0278c7d1f201096'></a> Source: [README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-hardware-commercialization/blob/e3f9c23bbdcec8295d0757ac620272e36ce9bdc6/README.md)

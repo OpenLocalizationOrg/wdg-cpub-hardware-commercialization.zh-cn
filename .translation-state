@@ -32,9 +32,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\zh-cn.wdg-cpub-hardware-commercialization\\docset\\index.xlf",
+      "BilingualFileCommit": "7e84640d85a07c26f8628d3e73c2033b56e78d79",
+      "BilingualDateTime": "2016-06-28T09:22:54.1401343Z",
       "BilingualException": null
     },
     "3d1e3af0bb0e504b0b22fdb2efa59f367cb04efb": {
@@ -37154,9 +37154,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\zh-cn.wdg-cpub-hardware-commercialization\\docset\\TOC.xlf",
+      "BilingualFileCommit": "7e84640d85a07c26f8628d3e73c2033b56e78d79",
+      "BilingualDateTime": "2016-06-28T09:22:54.1401343Z",
       "BilingualException": null
     }
   }
