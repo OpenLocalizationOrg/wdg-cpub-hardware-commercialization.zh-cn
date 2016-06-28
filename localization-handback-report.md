@@ -1,39 +1,11 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 2
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [docset\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-hardware-commercialization/blob/0f8db04cd7f6441855eae9187c7e62741becb18d/docset/index.md) | InSyncHandedBackSuccess | [Details](#865258c0b403d4e7979d7ee32d3f87b63a349f086)
- [docset\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-hardware-commercialization/blob/51bdc2c7488a2c06b56adad3af5b307db825d14c/docset/TOC.md) | InSyncHandedBackSuccess | [Details](#0b34fef853fc3e33f4bb972fbfd5f7b0dce72fef1095)
 
 ## Item Details
-##### <a name='865258c0b403d4e7979d7ee32d3f87b63a349f086'></a> Source: [docset\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-hardware-commercialization/blob/0f8db04cd7f6441855eae9187c7e62741becb18d/docset/index.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [docset\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-hardware-commercialization.zh-cn/blob/ded9cb3ae927b3d0afb62c8f4543392fca6b1d32/docset/index.md)
-* Handoff File: [index.xlf](https://github.com/OpenLocalizationOrg/wdg-test.handoff/blob/5858028940c0dddcd8488a6357c0f3c6cad863f1/ol-handoff/en-us.wdg-cpub-hardware-commercialization/docset/index.xlf)
-* Handoff Datetime: 2016-06-28 08:53:35
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [index.xlf](https://github.com/OpenLocalizationOrg/wdg-test.handback/blob/7e84640d85a07c26f8628d3e73c2033b56e78d79/ol-handback/zh-cn.wdg-cpub-hardware-commercialization/docset/index.xlf)
-* Handback Datetime: 2016-06-28 09:22:36
-* [Back to Top](#report-top)
-
-##### <a name='0b34fef853fc3e33f4bb972fbfd5f7b0dce72fef1095'></a> Source: [docset\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-hardware-commercialization/blob/51bdc2c7488a2c06b56adad3af5b307db825d14c/docset/TOC.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [docset\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-hardware-commercialization.zh-cn/blob/ded9cb3ae927b3d0afb62c8f4543392fca6b1d32/docset/TOC.md)
-* Handoff File: [TOC.xlf](https://github.com/OpenLocalizationOrg/wdg-test.handoff/blob/5858028940c0dddcd8488a6357c0f3c6cad863f1/ol-handoff/en-us.wdg-cpub-hardware-commercialization/docset/TOC.xlf)
-* Handoff Datetime: 2016-06-28 08:53:35
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [TOC.xlf](https://github.com/OpenLocalizationOrg/wdg-test.handback/blob/7e84640d85a07c26f8628d3e73c2033b56e78d79/ol-handback/zh-cn.wdg-cpub-hardware-commercialization/docset/TOC.xlf)
-* Handback Datetime: 2016-06-28 09:22:36
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
