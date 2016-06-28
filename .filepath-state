@@ -1,0 +1,3136 @@
+{
+  "865258c0b403d4e7979d7ee32d3f87b63a349f08": [
+    "docset\\index.md"
+  ],
+  "3d1e3af0bb0e504b0b22fdb2efa59f367cb04efb": [
+    "docset\\manufacture\\desktop\\add-a-custom-script-to-windows-setup.md"
+  ],
+  "27b5b7c88605ed1a796193cc5185be4692dee6c7": [
+    "docset\\manufacture\\desktop\\add-a-custom-tool-to-the-windows-re-boot-options-menu.md"
+  ],
+  "510872de0486cbad8a13f5d859986970b6426ad0": [
+    "docset\\manufacture\\desktop\\add-a-driver-online-in-audit-mode.md"
+  ],
+  "106dec16c837f414a9bba3047ea465e2fa876947": [
+    "docset\\manufacture\\desktop\\add-a-hardware-recovery-button-to-start-windows-re.md"
+  ],
+  "3641bc64da6b162f416408cceca643ad066eb57a": [
+    "docset\\manufacture\\desktop\\add-and-remove-drivers-to-an-offline-windows-image.md"
+  ],
+  "bfd567be049d98fe8973e4f4e49752d54a2e1ec3": [
+    "docset\\manufacture\\desktop\\add-and-remove-language-packs-offline-using-dism.md"
+  ],
+  "c1e85f4a25451dc242f547080b0d713d56761479": [
+    "docset\\manufacture\\desktop\\add-and-remove-language-packs-on-a-running-windows-installation.md"
+  ],
+  "a0c3fda9bcbb96f241293df0c609a4fdaa3bfd45": [
+    "docset\\manufacture\\desktop\\add-a-script-to-push-button-reset-features.md"
+  ],
+  "099925c4a2774965af615c82030933e3ad522500": [
+    "docset\\manufacture\\desktop\\add-device-drivers-to-windows-during-windows-setup.md"
+  ],
+  "1e4f716a8b710b703e73b147dfdbad8292e06618": [
+    "docset\\manufacture\\desktop\\add-language-interface-packs-to-windows.md"
+  ],
+  "37911f893266fcc9043aee059766692856388db9": [
+    "docset\\manufacture\\desktop\\add-language-packs-to-windows.md"
+  ],
+  "db8c8d559edbb066ea08de567642e6c6d346324e": [
+    "docset\\manufacture\\desktop\\add-multilingual-support-to-a-windows-distribution.md"
+  ],
+  "ef4bd9bb372710d93c57107abc2a6e7836572388": [
+    "docset\\manufacture\\desktop\\add-multilingual-support-to-windows-setup.md"
+  ],
+  "d2a1f35a1460075b1e108885749cafac527d8ef8": [
+    "docset\\manufacture\\desktop\\add-or-remove-packages-offline-using-dism.md"
+  ],
+  "63d0b7041f98e5c88e89e1e7b725ef73ca665003": [
+    "docset\\manufacture\\desktop\\add-updates-to-customized-windows-and-winpe-images.md"
+  ],
+  "266b6857a06af9ca2b81e24e83f767b85db7ac30": [
+    "docset\\manufacture\\desktop\\append-a-volume-image-to-an-existing-image-using-dism--s14.md"
+  ],
+  "b06b9dab5bf6cab8e595fb9b12046e8f0f785cec": [
+    "docset\\manufacture\\desktop\\apply-images-using-dism.md"
+  ],
+  "178eb628cfb4c562c63b5ba9402e91b6b6232089": [
+    "docset\\manufacture\\desktop\\audit-mode-overview.md"
+  ],
+  "cd69d21a458d6dfd861452e23c3b8cd83ec38f04": [
+    "docset\\manufacture\\desktop\\auditsystem.md"
+  ],
+  "9d5d1632c2f703ecc75919eaf16062448359eb7b": [
+    "docset\\manufacture\\desktop\\audituser.md"
+  ],
+  "c6c53ba4a8003d918114d12c711908aa1392c19f": [
+    "docset\\manufacture\\desktop\\automate-windows-setup.md"
+  ],
+  "efb04b197d7776ba35b3e54b846ebf8be4a66781": [
+    "docset\\manufacture\\desktop\\available-language-packs-for-windows.md"
+  ],
+  "ab73bedac92278be97f9f72eca39bef63ae98524": [
+    "docset\\manufacture\\desktop\\bare-metal-resetrecovery-enable-your-users-to-create-media-and-to-recover-hard-drive-space.md"
+  ],
+  "393df30e1fafc6156a5c3296090d421f5ea1e812": [
+    "docset\\manufacture\\desktop\\battery-life.md"
+  ],
+  "630f88ceaafac162824c45d4900e3c28c01fd2d4": [
+    "docset\\manufacture\\desktop\\bcdboot-command-line-options-techref-di.md"
+  ],
+  "25e5344985946cf2b8ef9fba364d32466b68e4a5": [
+    "docset\\manufacture\\desktop\\bcdedit-command-line-options.md"
+  ],
+  "b6ec1fa73a37e1f512e20dd9fcc7c041dd9b3373": [
+    "docset\\manufacture\\desktop\\bcd-system-store-settings-for-uefi.md"
+  ],
+  "a5a60283468bf70b20afb8f56cdb70778893de3f": [
+    "docset\\manufacture\\desktop\\bitlocker-drive-encryption.md"
+  ],
+  "b3790cc0e94f208a89cdabfe371a4959e3fd5165": [
+    "docset\\manufacture\\desktop\\boot-from-a-dvd.md"
+  ],
+  "061c5bccded2bb4cd872820be7c32dbb56c6b9a7": [
+    "docset\\manufacture\\desktop\\bootsect-command-line-options.md"
+  ],
+  "29986a565d5ec57d213838944434070bd6c1af65": [
+    "docset\\manufacture\\desktop\\boot-to-uefi-mode-or-legacy-bios-mode.md"
+  ],
+  "4f448b3578397f7c31e282c14c14d1cdb9c531fa": [
+    "docset\\manufacture\\desktop\\boot-to-vhd--native-boot--add-a-virtual-hard-disk-to-the-boot-menu.md"
+  ],
+  "5fbbf15024c522abe60b1b349b4b52cf474d8f47": [
+    "docset\\manufacture\\desktop\\boot-windows-to-audit-mode-or-oobe.md"
+  ],
+  "76fa532bd901dfd73234b8020621747b6362dfc2": [
+    "docset\\manufacture\\desktop\\capture-and-apply-windows-system-and-recovery-partitions.md"
+  ],
+  "f1e0f06537ea65a762b746c277a00750b9f96319": [
+    "docset\\manufacture\\desktop\\capture-images-of-hard-disk-partitions-using-dism.md"
+  ],
+  "6c43d659b34aa3ab1898e0ef7142755aa4103b18": [
+    "docset\\manufacture\\desktop\\change-the-windows-image-to-a-higher-edition-using-dism.md"
+  ],
+  "b2fef1e8c62eeb5e74410725d42874d42a8eb1c4": [
+    "docset\\manufacture\\desktop\\clean-up-the-winsxs-folder.md"
+  ],
+  "565395052fce5b0ceaf82022ae32bf4ea1398799": [
+    "docset\\manufacture\\desktop\\combine-provisioning-packages-into-a-new-image.md"
+  ],
+  "39e34016079a8ad70cbdf2c4eebde0a9746c0416": [
+    "docset\\manufacture\\desktop\\compact-os.md"
+  ],
+  "8b518cf80cfc492197c86f05eb92f404fe4a6ec3": [
+    "docset\\manufacture\\desktop\\configure-a-trusted-image-identifier-for-windows-defender.md"
+  ],
+  "ffd6fefc23c0d67898d115acc6ec475a8f9f98e2": [
+    "docset\\manufacture\\desktop\\configure-a-windows-repair-source.md"
+  ],
+  "9c7a0632e437eea8d6f54a6a34966b3f86d140d1": [
+    "docset\\manufacture\\desktop\\configure-biosmbr-based-hard-drive-partitions.md"
+  ],
+  "97c25d1816fe86f58660e03f2586514b8eb625b1": [
+    "docset\\manufacture\\desktop\\configure-international-settings-in-windows.md"
+  ],
+  "08f187540e12c4b9b257a4b6e2a5274dcc4a0ddb": [
+    "docset\\manufacture\\desktop\\configure-more-than-four-partitions-on-a-biosmbr-based-hard-disk.md"
+  ],
+  "81a079863066a48ce15fbf2f023e734d563bec59": [
+    "docset\\manufacture\\desktop\\configure-multiple-hard-drives.md"
+  ],
+  "50d23b954274cf4892120ad9994dacf6af10fa78": [
+    "docset\\manufacture\\desktop\\configure-network-settings-in-an-unattended-installation.md"
+  ],
+  "5dc61b2157e472bc9f852df129f81d1db6054764": [
+    "docset\\manufacture\\desktop\\configure-oobexml.md"
+  ],
+  "33c24a25d6cf154106ee4a14ebbad89a6c3a0d76": [
+    "docset\\manufacture\\desktop\\configure-uefigpt-based-hard-drive-partitions.md"
+  ],
+  "83f860250cf16be659fce435274768479126a900": [
+    "docset\\manufacture\\desktop\\configure-windows-firewall-with-advanced-security-by-using-an-answer-file.md"
+  ],
+  "2dd718b6bf312de6b9fc8c8c8157a2eaaeab5b4e": [
+    "docset\\manufacture\\desktop\\configure-windows-server-roles.md"
+  ],
+  "0e36dad1a917c02dea678a4767432bbdea1a10a2": [
+    "docset\\manufacture\\desktop\\configure-windows-system-assessment-test-scores.md"
+  ],
+  "7fcc7d07a132286da114a9833ae9a220c992e3a1": [
+    "docset\\manufacture\\desktop\\copy-dism-to-another-computer.md"
+  ],
+  "257315143901578f29c244377bfff2c7dd778593": [
+    "docset\\manufacture\\desktop\\copype-command-line-options.md"
+  ],
+  "cf2d44b6abc6938b917a59a9bc92bcb14d5e16c3": [
+    "docset\\manufacture\\desktop\\create-a-custom-power-plan-technicalreference.md"
+  ],
+  "70355196e3b890f501716a9327f6fc866b692e29": [
+    "docset\\manufacture\\desktop\\create-a-data-image-using-dism.md"
+  ],
+  "2690d574e673b904ced539874097371aad2786d9": [
+    "docset\\manufacture\\desktop\\create-and-manage-a-windows-image-using-dism.md"
+  ],
+  "33bc00fd162cc4d774a5abd29b00713aad361edf": [
+    "docset\\manufacture\\desktop\\create-a-wim-for-multiple-architecture-types-using-dism.md"
+  ],
+  "172d21b48fb8103a8c20703672105a4cadf54a91": [
+    "docset\\manufacture\\desktop\\create-media-to-run-push-button-reset-features-s14.md"
+  ],
+  "0a393663e2fe165b7e8bd38dd6ed9cfc79b90234": [
+    "docset\\manufacture\\desktop\\customize-the-default-user-profile-by-using-copyprofile.md"
+  ],
+  "e4ad0f2b227d3e946255864c37f4d3060e78c7b4": [
+    "docset\\manufacture\\desktop\\customize-the-start-screen.md"
+  ],
+  "fdf2c3a44fdbd986b28c73153ac58ab2e94a1f15": [
+    "docset\\manufacture\\desktop\\customize-windows-re.md"
+  ],
+  "e5527ac4977257a28f3799474be34b2133ca86af": [
+    "docset\\manufacture\\desktop\\default-input-locales-for-windows-language-packs.md"
+  ],
+  "0e4cd890245ae8a63d179d67a5d745ba08fa741f": [
+    "docset\\manufacture\\desktop\\default-time-zones.md"
+  ],
+  "ea85ea4424cf9da7296d5acc9db5f51554c66ef0": [
+    "docset\\manufacture\\desktop\\deploy-a-custom-image.md"
+  ],
+  "2fae20f000ac6f63e2d1158f93660f5cc81a3e43": [
+    "docset\\manufacture\\desktop\\deployment-image-servicing-and-management--dism--best-practices.md"
+  ],
+  "023e959627027513a8d5a309a5fffb4f10bd3562": [
+    "docset\\manufacture\\desktop\\deployment-image-servicing-and-management--dism--command-line-options.md"
+  ],
+  "42f4c86b3c6684cc945580608777e12fb7401050": [
+    "docset\\manufacture\\desktop\\deployment-troubleshooting-and-log-files.md"
+  ],
+  "7bdb0f5bce8e88528ed11c1b78e5d5a06a285fad": [
+    "docset\\manufacture\\desktop\\deploy-net-framework-35-by-using-deployment-image-servicing-and-management--dism.md"
+  ],
+  "54f97a997b7a278e5b88c3f0df7ce1f95cbacb91": [
+    "docset\\manufacture\\desktop\\deploy-net-framework-35-by-using-group-policy-feature-on-demand-setting.md"
+  ],
+  "98d0204495c6a8a370ffe8a3a7ecd170863d12ce": [
+    "docset\\manufacture\\desktop\\deploy-push-button-reset-features.md"
+  ],
+  "1826a8e60fa8d872c870ff6c5903ed5817f7ff8d": [
+    "docset\\manufacture\\desktop\\deploy-windows-on-a-vhd--native-boot.md"
+  ],
+  "496f76ee03c17c43df7d191be5857c1b90373968": [
+    "docset\\manufacture\\desktop\\deploy-windows-re.md"
+  ],
+  "060749a2cc657344d5f20cb8cb6fdbe3471d42c5": [
+    "docset\\manufacture\\desktop\\deploy-windows-using-full-flash-update--ffu.md"
+  ],
+  "c9623a0688aa7abff278a9cecbabdf733c8051f7": [
+    "docset\\manufacture\\desktop\\determine-the-actual-size-of-the-winsxs-folder.md"
+  ],
+  "89a64fa9996b6062f357f28013817a745a7e3bcf": [
+    "docset\\manufacture\\desktop\\device-drivers-and-deployment-overview.md"
+  ],
+  "2103d4b2cdcc3a6aaf734cf1a61aae8dfa4a7d22": [
+    "docset\\manufacture\\desktop\\disabling-secure-boot.md"
+  ],
+  "4558ec620e836636fa30b5415f67c2c1f67f4919": [
+    "docset\\manufacture\\desktop\\dism-application-servicing-command-line-options.md"
+  ],
+  "5291ae57571f36dd87687219b3cd436f91b91f48": [
+    "docset\\manufacture\\desktop\\dism-app-package--appx-or-appxbundle--servicing-command-line-options.md"
+  ],
+  "30b55300516794c93cece4745778bd19777f9198": [
+    "docset\\manufacture\\desktop\\dism-capabilities-package-servicing-command-line-options.md"
+  ],
+  "fbe01a0e59e00bcfca04c0cee714b8abf6f36233": [
+    "docset\\manufacture\\desktop\\dism-configuration-list-and-wimscriptini-files-winnext.md"
+  ],
+  "444e0132093b147be51dc0040f48310bf50b16e8": [
+    "docset\\manufacture\\desktop\\dism-default-application-association-servicing-command-line-options.md"
+  ],
+  "ba466b0321af8522ac9af4ffcd9b5e92373c1547": [
+    "docset\\manufacture\\desktop\\dism---deployment-image-servicing-and-management-technical-reference-for-windows.md"
+  ],
+  "ab3dafe2377d60a3bf12f866eb0ba4494911e0f9": [
+    "docset\\manufacture\\desktop\\dism-driver-servicing-command-line-options-s14.md"
+  ],
+  "5a9f63b344d791fe16efaa52cb82812fd34e0de4": [
+    "docset\\manufacture\\desktop\\dism-global-options-for-command-line-syntax.md"
+  ],
+  "8f0b698d977af2e547e6af34f6158f652870b93d": [
+    "docset\\manufacture\\desktop\\dism-how-to-topics--deployment-image-servicing-and-management.md"
+  ],
+  "3c9d4652adbf171039cb966782f7b4579d29fe57": [
+    "docset\\manufacture\\desktop\\dism-image-management-command-line-options-s14.md"
+  ],
+  "c9ee5d7971948dd32f35e79cba75170e6e4c5c0f": [
+    "docset\\manufacture\\desktop\\dism-languages-and-international-servicing-command-line-options.md"
+  ],
+  "7fef28320ebfb99e70385b403e6f290eb6dff6ed": [
+    "docset\\manufacture\\desktop\\dism-operating-system-package-servicing-command-line-options.md"
+  ],
+  "6c49eb0724a4ce7a5a989f9ba9aeee6e256f03ba": [
+    "docset\\manufacture\\desktop\\dism-provisioning-package-command-line-options.md"
+  ],
+  "c7b9335ee03adb13a59d61e5d317256270ff8e68": [
+    "docset\\manufacture\\desktop\\dism-reference--deployment-image-servicing-and-management.md"
+  ],
+  "a919e084a9989a6d854e970cd2d231946a19f406": [
+    "docset\\manufacture\\desktop\\dism-supported-platforms.md"
+  ],
+  "a67163cf505d1110f8f686d8a5be1b867d9705ed": [
+    "docset\\manufacture\\desktop\\dism-unattended-servicing-command-line-options.md"
+  ],
+  "a4a926396aa9c4387c0a02e18fb22be6e2ec45a9": [
+    "docset\\manufacture\\desktop\\dism-windows-edition-servicing-command-line-options.md"
+  ],
+  "9da5a12299dfa23086476d9c99038f21bbbf9e3f": [
+    "docset\\manufacture\\desktop\\dism-windows-pe-servicing-command-line-options.md"
+  ],
+  "63c8b060eebad2d7fae3de92d0b4f83460b5c912": [
+    "docset\\manufacture\\desktop\\download-and-install-windows-pe--winpe--so-you-can-boot-from-a-usb-flash-drive-or-an-external-usb-hard-drive.md"
+  ],
+  "f1da17a25da5eda77f24e9c070a02d99c2d97c97": [
+    "docset\\manufacture\\desktop\\download-winpe--windows-pe.md"
+  ],
+  "384666679053d647455d9351f8f71bec4426ea56": [
+    "docset\\manufacture\\desktop\\dpi-related-apis-and-registry-settings.md"
+  ],
+  "aaa8a80797f364755537e9490a1e482ded1dd228": [
+    "docset\\manufacture\\desktop\\drvload-command-line-options.md"
+  ],
+  "346dcf5acc3a0ea35537b314f69e04bcd4d41670": [
+    "docset\\manufacture\\desktop\\enable-and-disable-the-built-in-administrator-account.md"
+  ],
+  "dd4b7f7cd4e11a3212c4de4ff331bf4ed7d24dff": [
+    "docset\\manufacture\\desktop\\enable-net-framework-35-by-using-control-panel-and-windows-update--windows-8-only.md"
+  ],
+  "03ff78cc5895dca515f8cac9979949f256088246": [
+    "docset\\manufacture\\desktop\\enable-net-framework-35-by-using-the-add-roles-and-features-wizard.md"
+  ],
+  "ce766e7e51e1c1a18fcb55a24a7bf27c5a0049e0": [
+    "docset\\manufacture\\desktop\\enable-net-framework-35-by-using-windows-powershell.md"
+  ],
+  "156fb219e51b064926adf82723b08714c376ffbe": [
+    "docset\\manufacture\\desktop\\enable-or-disable-windows-features-using-dism.md"
+  ],
+  "07a07fa3e85050787bc30bdd03f604a4e89ba5f5": [
+    "docset\\manufacture\\desktop\\enable-remote-desktop-by-using-an-answer-file.md"
+  ],
+  "f65bd1612928430478262a0e396bad5be9d25928": [
+    "docset\\manufacture\\desktop\\export-or-import-default-application-associations.md"
+  ],
+  "49f2555e09c5d08b5b033e0f3fdff130576fb3e7": [
+    "docset\\manufacture\\desktop\\factory-encrypted-drives.md"
+  ],
+  "9d4bd9345a3adc9a9e14057d56a3f6a182e090bf": [
+    "docset\\manufacture\\desktop\\features-on-demand-v2--capabilities.md"
+  ],
+  "96cb62465a523622bbf398917e2a164a26518184": [
+    "docset\\manufacture\\desktop\\fine-tune-a-custom-power-plan-technicalreference.md"
+  ],
+  "bf5896694a4f4cedccee78cc91ef6501f400d7c1": [
+    "docset\\manufacture\\desktop\\fixing-blurry-text-in-windows-for-it-professionals.md"
+  ],
+  "5f1554ea6b92fbdcd5a6e825cc4fd93ec95dc73b": [
+    "docset\\manufacture\\desktop\\generalize.md"
+  ],
+  "d4b8508df5f9859df4e1bfca12767aaf3380e8ef": [
+    "docset\\manufacture\\desktop\\get-the-tools-needed-to-customize-windows-sxs.md"
+  ],
+  "0f72b0822a10f30c25bc6a3106344a136bf76dc9": [
+    "docset\\manufacture\\desktop\\hard-disk-location-path-format.md"
+  ],
+  "80f034d19f0e9a4a8a0c558f21fb153904c9b267": [
+    "docset\\manufacture\\desktop\\hard-drives-and-partitions.md"
+  ],
+  "2d7c5db04407e0f1c7b72c5187e1ad0305d7526f": [
+    "docset\\manufacture\\desktop\\high-dpi-and-windows.md"
+  ],
+  "ab636176b990f7fbfc20180fa943709c920ae4b5": [
+    "docset\\manufacture\\desktop\\high-dpi-projection-and-multi-monitor-configurations.md"
+  ],
+  "25bc66fb3140fac4363bad46bc4cad8e03250e58": [
+    "docset\\manufacture\\desktop\\high-dpi-support-for-it-professionals.md"
+  ],
+  "7604fa13920ab9407775bbb0b5234ec6065506eb": [
+    "docset\\manufacture\\desktop\\how-configuration-passes-work.md"
+  ],
+  "af23e4cfe6d9c00bd04e7ca81456b2c1dccd08b3": [
+    "docset\\manufacture\\desktop\\how-oobexml-works.md"
+  ],
+  "8753ab6303b314a5661cb9613c365067ae51c5ed": [
+    "docset\\manufacture\\desktop\\how-push-button-reset-features-work.md"
+  ],
+  "94c24212f9a77fb88d8fbe55ed032c2ca6729925": [
+    "docset\\manufacture\\desktop\\images\\add-desktop-background.png"
+  ],
+  "fd3b46a45a623030f4ce242e14f60f22c60ff19b": [
+    "docset\\manufacture\\desktop\\images\\add-update-catalog.png"
+  ],
+  "001de632606f56960a1fbe8a7e54f3cb45fc29db": [
+    "docset\\manufacture\\desktop\\images\\adk-select-features.png"
+  ],
+  "9c0634c950915000cd7e474035af896b0a33784a": [
+    "docset\\manufacture\\desktop\\images\\adk-win8-l-di-offlineservicingfailureanalysis.jpg"
+  ],
+  "4ce3c7851180e1c1db9d8e28f7c9007d2038ffa4": [
+    "docset\\manufacture\\desktop\\images\\adk-win8-l-di-onlineservicingfailureanalysis.jpg"
+  ],
+  "8750a8d73bab54d6efe17e57a7eadb9d7efa2464": [
+    "docset\\manufacture\\desktop\\images\\agreement-and-oobe-files.png"
+  ],
+  "8c2986704831fee3235b55fb06e2a1b2d7545983": [
+    "docset\\manufacture\\desktop\\images\\applicationproperties.jpg"
+  ],
+  "54223b8b5713ed2daab194b567cf75f88268bead": [
+    "docset\\manufacture\\desktop\\images\\app-promotions.png"
+  ],
+  "706245fd9105bc9241817732cc9dd811041f9101": [
+    "docset\\manufacture\\desktop\\images\\catalog-creation-fail.png"
+  ],
+  "8e5159c2d91a3b7f63a680ed56e5c485c1a27803": [
+    "docset\\manufacture\\desktop\\images\\catalog-fail-arch-mismatch.png"
+  ],
+  "7434e30564f9008361e7a6e7a4b97a54e06b4d76": [
+    "docset\\manufacture\\desktop\\images\\configure-source-path.png"
+  ],
+  "d4079193c217de76113a3569a798fe24a44ff09e": [
+    "docset\\manufacture\\desktop\\images\\connect-usb.png"
+  ],
+  "6669b41c88f68ce44854726453921e602631a8fa": [
+    "docset\\manufacture\\desktop\\images\\controlpaneldisplay.jpg"
+  ],
+  "d5cdbf3818f2ecd0a89ae4bb04bccba608589d0c": [
+    "docset\\manufacture\\desktop\\images\\copy-lip.png"
+  ],
+  "7c6267578e39273aeb233e0f238466fa2730927a": [
+    "docset\\manufacture\\desktop\\images\\copy-lp-cab.png"
+  ],
+  "22935a56073f91b0ea2f66830b9e46d2a1d46cf6": [
+    "docset\\manufacture\\desktop\\images\\copy-wim.png"
+  ],
+  "3b0b0481522e4f89eed8927383e4ed13734e173d": [
+    "docset\\manufacture\\desktop\\images\\create-answer-file.png"
+  ],
+  "73cfd91c6c12095ab8fa388417985cebdd4382f2": [
+    "docset\\manufacture\\desktop\\images\\create-model-specific-image.png"
+  ],
+  "650ff1beefc0ae9c6d97dc819e5f31f6ecf55819": [
+    "docset\\manufacture\\desktop\\images\\dep-8-secureboot-allkeys.png"
+  ],
+  "fc95f9ce07f5f64cf30b762f8822a0cd20b75e4e": [
+    "docset\\manufacture\\desktop\\images\\dep-8-secureboot-hsm-keylisting.png"
+  ],
+  "d79519c619e54f22900e89773c432a0db8785b8d": [
+    "docset\\manufacture\\desktop\\images\\dep-8-secureboot-hsm-operations.png"
+  ],
+  "189017a08b83c9050827c9374c7ac19fc09af138": [
+    "docset\\manufacture\\desktop\\images\\dep-8-secureboot-pkstate.png"
+  ],
+  "6a60a5c19fdc21ebcf8c7a633c32b9b8c4971547": [
+    "docset\\manufacture\\desktop\\images\\dep-8-secureboot-platform-integrity-architecture.png"
+  ],
+  "fcf1ac36e9032bb33f8659b4bb60879bd973c321": [
+    "docset\\manufacture\\desktop\\images\\dep-8-secureboot-threecertificatechain.png"
+  ],
+  "4de734320f6b89d9c399a86ff61b6f04b2539f77": [
+    "docset\\manufacture\\desktop\\images\\dep-8-secureboot-uefidriversecurityconsideration.png"
+  ],
+  "4bd25253835c11e515a548b7e5299d7d5aadc3b7": [
+    "docset\\manufacture\\desktop\\images\\dep-adk-partitions-uefi-overview-capture-windows.jpg"
+  ],
+  "853a94062d936010cc54e636c8852ed42b98f1e3": [
+    "docset\\manufacture\\desktop\\images\\dep-adk-winb-dism-winsxs-hardlinks.jpg"
+  ],
+  "c95bc281e8fbbb809a0f408bff9e778ee7b3b0db": [
+    "docset\\manufacture\\desktop\\images\\dep-blue-winpe-overview.png"
+  ],
+  "f5d4801010b0420f5f608cf1bf99cbfb83eaf648": [
+    "docset\\manufacture\\desktop\\images\\deployment-process.png"
+  ],
+  "94da400dc7b99378efbf8f35e1079089ad4a0e27": [
+    "docset\\manufacture\\desktop\\images\\dep-win10-partitions-bios.png"
+  ],
+  "d322e91ea8bc2e4b0b15f92a71352c8f400d28a8": [
+    "docset\\manufacture\\desktop\\images\\dep-win10-partitions-bios-morethanfour.png"
+  ],
+  "5e883f8591c179b23bdafd8da1d09100ab40fe1f": [
+    "docset\\manufacture\\desktop\\images\\dep-win10-partitions-uefi.png"
+  ],
+  "3aada918a85b74ab17966bdd7d5a3af75af54560": [
+    "docset\\manufacture\\desktop\\images\\dep-win8-l-auditmode.jpg"
+  ],
+  "469056a431e0e3706737a65ef0d7c7ed89cd2f6f": [
+    "docset\\manufacture\\desktop\\images\\dep-win8-l-configpassesandexes.jpg"
+  ],
+  "d562c15871ce2026cfd61d574ed7f1d7554325b6": [
+    "docset\\manufacture\\desktop\\images\\dep-win8-l-generalizeunattend.jpg"
+  ],
+  "11b3153303d556eaa30fb9dea0a0b7d4697eb5b0": [
+    "docset\\manufacture\\desktop\\images\\dep-win8-l-servicingstrategy.jpg"
+  ],
+  "54ba98ecb02f1b6c2b952ec836dc99a8c6b56bfd": [
+    "docset\\manufacture\\desktop\\images\\dep-win8-l-setup-failure-log.jpg"
+  ],
+  "b2220d81ca66196606c23de1d6ce2211e1a5642f": [
+    "docset\\manufacture\\desktop\\images\\dep-win8-l-specializeconfigpass.jpg"
+  ],
+  "f3fa65fa145fd414f82ba16fa0325e7a058e8465": [
+    "docset\\manufacture\\desktop\\images\\dep-win8-l-windowswelcomeconfigpass.jpg"
+  ],
+  "00662e672676b2f4369506f3ec2b70004432aa03": [
+    "docset\\manufacture\\desktop\\images\\dep-win8-l-winpeconfigpass.jpg"
+  ],
+  "671d85e83075f92cb3510d922d95435bf26054dd": [
+    "docset\\manufacture\\desktop\\images\\dep-win8-sxs-createanswerfile.jpg"
+  ],
+  "de68b62ddb913e13e008fce54b8a1bfa8560dee0": [
+    "docset\\manufacture\\desktop\\images\\dep-win8-sxs-createdeploymentscript.jpg"
+  ],
+  "7d72f691b4fb426c142a6b8719b4dc790a22e75c": [
+    "docset\\manufacture\\desktop\\images\\dep-win8-sxs-createmodelspecificfiles.jpg"
+  ],
+  "8e5fd9e55d069ab694fc2ca549d680b12fa1bfca": [
+    "docset\\manufacture\\desktop\\images\\dep-winre-compactos.png"
+  ],
+  "b21ec7a94adb502b29d4480a349bc0f2437cd17e": [
+    "docset\\manufacture\\desktop\\images\\dep-winre-hardwarebuttonoverview.png"
+  ],
+  "aff60c54ac0050aa49fd82f2648baa2cfdc1f3e3": [
+    "docset\\manufacture\\desktop\\images\\dep-winre-menu.png"
+  ],
+  "f97a568d0a9757abd4bebb60d3723d4bca4df375": [
+    "docset\\manufacture\\desktop\\images\\dep-winre-pbr.png"
+  ],
+  "caf9804db6a62fdc10ea4e25cab769f40adbed10": [
+    "docset\\manufacture\\desktop\\images\\diskpart.png"
+  ],
+  "6922b81ee266a47d7d2ea160e86c04ccc50bfe43": [
+    "docset\\manufacture\\desktop\\images\\diskpart-v10.png"
+  ],
+  "3f99dbfed40d396f5890ef406c144528bab6c8a4": [
+    "docset\\manufacture\\desktop\\images\\do-not-cleanup-nonpresent-devices.png"
+  ],
+  "222f7a3b0cdaeb1ebc0adb46e8db537b92236ccc": [
+    "docset\\manufacture\\desktop\\images\\download-update-catalog.png"
+  ],
+  "6ca55c270730fd6d0b43d70d19505c0e597aff19": [
+    "docset\\manufacture\\desktop\\images\\download-update-catalog-complete.png"
+  ],
+  "e1e7e726afd258a5463cdf135aa9f94903dedfca": [
+    "docset\\manufacture\\desktop\\images\\enable-protected-mode.png"
+  ],
+  "b531244dfeab378a834e408b68656241dc096878": [
+    "docset\\manufacture\\desktop\\images\\extract-app-files.png"
+  ],
+  "64f646f9d023253db72c13eefaffa15bb51eb1fd": [
+    "docset\\manufacture\\desktop\\images\\extract-office.png"
+  ],
+  "ed0015ef8b7a14709b62819baf49b9af5482d3c1": [
+    "docset\\manufacture\\desktop\\images\\extract-usb.png"
+  ],
+  "f16b8cfd26ed1fd54bf8558939268e522fa08210": [
+    "docset\\manufacture\\desktop\\images\\four-tiles-pinning.png"
+  ],
+  "f0c2b01ef6c86cb569c4d7f97b8f1c3a3b6f2f9b": [
+    "docset\\manufacture\\desktop\\images\\gpsettingfeaturesondemand.jpg"
+  ],
+  "b64c9bc3e25069eee10b64d805b8facb4e33febe": [
+    "docset\\manufacture\\desktop\\images\\highlight-language-packs.png"
+  ],
+  "096ba0ebb7a83f2dbf328989c77e98fe5cecc2fe": [
+    "docset\\manufacture\\desktop\\images\\installation-directory.png"
+  ],
+  "0a3a608362dacb17dc8e9af022986da68c5b449e": [
+    "docset\\manufacture\\desktop\\images\\language-id.png"
+  ],
+  "dec69c371bc86f16cb1b42165f52f3c5431ee924": [
+    "docset\\manufacture\\desktop\\images\\layoutmodification.png"
+  ],
+  "41625c9010d8d265cb179857609c254d9a869faf": [
+    "docset\\manufacture\\desktop\\images\\locate-usb-files.png"
+  ],
+  "ca21267fcdb8d121443825f74c32ea04560515cb": [
+    "docset\\manufacture\\desktop\\images\\mount.png"
+  ],
+  "e8736d0403debffebc24d3ae5d530194b694de5b": [
+    "docset\\manufacture\\desktop\\images\\mounted-files.png"
+  ],
+  "7478e1ca5a8983133571d53a96a34d55f3aac6ef": [
+    "docset\\manufacture\\desktop\\images\\oem-logo-details.png"
+  ],
+  "8aa2408efdc56dc92973bc8b9c1d6a6730dcc0db": [
+    "docset\\manufacture\\desktop\\images\\office-folder.png"
+  ],
+  "1158e0fec583fd610cd91c02cf6f0690898b3157": [
+    "docset\\manufacture\\desktop\\images\\office-tiles-pinned-to-start-menu.png"
+  ],
+  "03a9dd941d9e93d3ed3ea31e235462d5fdec1488": [
+    "docset\\manufacture\\desktop\\images\\one-tile-pinning.png"
+  ],
+  "9d3435f127a61ade5f92b6df0576e253220955f4": [
+    "docset\\manufacture\\desktop\\images\\oscdimg.png"
+  ],
+  "d7782fc3f207b0057a9cabf401b2c07ece68cc39": [
+    "docset\\manufacture\\desktop\\images\\pccantrunwin8.jpg"
+  ],
+  "6531097a2dd0a54bf4247e31eb857c25af8fc3d2": [
+    "docset\\manufacture\\desktop\\images\\processexplorersysinternals.jpg"
+  ],
+  "2d20046c45ac9ebb5a429f298339f78ae4f762fc": [
+    "docset\\manufacture\\desktop\\images\\recovery-screen.png"
+  ],
+  "54c929d0de893a24ad1ef74bd7fe0a3024720dec": [
+    "docset\\manufacture\\desktop\\images\\run-sim.png"
+  ],
+  "96d4c104a7e6520c8d13754cc78751ea5605c115": [
+    "docset\\manufacture\\desktop\\images\\sample-oobe.png"
+  ],
+  "6c0c4b973f694d1807bec9d66b1068655dcd8bdc": [
+    "docset\\manufacture\\desktop\\images\\setup-and-configuation.png"
+  ],
+  "e59cee3b1daf85862512a2f1a2c015eb827dc0fb": [
+    "docset\\manufacture\\desktop\\images\\startnet.png"
+  ],
+  "525902702012a56c991dcc130d34e991e96ccc0f": [
+    "docset\\manufacture\\desktop\\images\\Sysprep.png"
+  ],
+  "15671593aad9756672288d6a73143190aa56a78f": [
+    "docset\\manufacture\\desktop\\images\\three-answer-files.png"
+  ],
+  "2fb590452d7bb812661013eb4b364a61e16292d1": [
+    "docset\\manufacture\\desktop\\images\\three-tiles-pinning.png"
+  ],
+  "fa22decf9641a2e841a0205caee7aede27441449": [
+    "docset\\manufacture\\desktop\\images\\update-3081452.png"
+  ],
+  "172f64b87ca007cb9c544783293fd7578fa3a8d3": [
+    "docset\\manufacture\\desktop\\images\\update-3097617.png"
+  ],
+  "16e04a2ce9c3a274bcaee43676a061d8940be77e": [
+    "docset\\manufacture\\desktop\\images\\update-catalog.png"
+  ],
+  "631bb5fbb73e8d89980b5fd3206fd681a11a4c37": [
+    "docset\\manufacture\\desktop\\images\\what-is-adk.png"
+  ],
+  "c4cae55ab378889bbe42a74d359247bf53e550b5": [
+    "docset\\manufacture\\desktop\\images\\windows-folder.png"
+  ],
+  "ded4c1cd4fe7ebf9b7edb6e434833e7ff12f02da": [
+    "docset\\manufacture\\desktop\\index.md"
+  ],
+  "c6812bb44415839f79cd5fef95307935032b295e": [
+    "docset\\manufacture\\desktop\\install-windows-automatically-from-a-usb-drive-sxs.md"
+  ],
+  "bcf7a4facdf3587fc9fa80651586aa4ee170c59e": [
+    "docset\\manufacture\\desktop\\install-windows-from-a-usb-flash-drive.md"
+  ],
+  "4c0cb0e718bd4abb115e4d8fbd42389c2ddc3624": [
+    "docset\\manufacture\\desktop\\install-windows-pe-sxs.md"
+  ],
+  "9450b33a4e7e5d6236ef2898d796b22aeb40498d": [
+    "docset\\manufacture\\desktop\\language-packs--lpcab--and-windows-deployment.md"
+  ],
+  "c03695bd30424d8a97cc9661a38629c08a0cb077": [
+    "docset\\manufacture\\desktop\\maintain-driver-configurations-when-capturing-a-windows-image.md"
+  ],
+  "76816e1bf414ad2c913b07ea9d8b676e54286c73": [
+    "docset\\manufacture\\desktop\\makewinpemedia-command-line-options.md"
+  ],
+  "5749327ea6f8aa54ce905b4e4cd3abb07f7a6cf4": [
+    "docset\\manufacture\\desktop\\manage-the-component-store.md"
+  ],
+  "1e4061c7499dd41a85d37a0bde24f2de2a848eef": [
+    "docset\\manufacture\\desktop\\managing-battery-life-and-power-consumption-overview-technicalreference.md"
+  ],
+  "f9d5786e6324b506c08184bececfd4897c7fc172": [
+    "docset\\manufacture\\desktop\\microsoft-net-framework-35-deployment-considerations.md"
+  ],
+  "d911841b12877141857f6a3124dbf992d02e9a39": [
+    "docset\\manufacture\\desktop\\modify-an-existing-windows-icd-project.md"
+  ],
+  "4050ae9186d2e519b390f660db932ebc4a9d1cab": [
+    "docset\\manufacture\\desktop\\mount-and-modify-a-windows-image-using-dism.md"
+  ],
+  "b350e71346bf6759ba571a0274411c8a9b2a21b7": [
+    "docset\\manufacture\\desktop\\multilingual-windows-image-creation.md"
+  ],
+  "ca4fc242f5fc2f7512f297a91d3891f226f81788": [
+    "docset\\manufacture\\desktop\\net-framework-35-deployment-errors-and-resolution-steps.md"
+  ],
+  "dc7206b146fcfcd37d5aee1a6312900368e232e0": [
+    "docset\\manufacture\\desktop\\oem-deployment-of-windows-10-for-desktop-editions.md"
+  ],
+  "2cd02ccf8d48b9c9ef47998dca1dbcb8685f57f8": [
+    "docset\\manufacture\\desktop\\oem-windows-deployment-and-imaging-walkthrough.md"
+  ],
+  "809852e9097ee8abdad6535f8e8b2fe862b085fd": [
+    "docset\\manufacture\\desktop\\offlineservicing.md"
+  ],
+  "371b10e79bcc30f0b375a1b9ea743b668c9fbb32": [
+    "docset\\manufacture\\desktop\\oobesystem.md"
+  ],
+  "0a3e95b1da49ef98f8ef593683934927536f673a": [
+    "docset\\manufacture\\desktop\\oobexml-settings.md"
+  ],
+  "5bd122d537dc3abfa2fac02c257855129bd508fe": [
+    "docset\\manufacture\\desktop\\oscdimg-command-line-options.md"
+  ],
+  "9112ddbbcca4e727d17b2b17da0ed0d1f941e674": [
+    "docset\\manufacture\\desktop\\paenxsse2-support-requirement-guide-for-windows-8.md"
+  ],
+  "8115348f2e1eaae7d4aff2b328e77bb8be1f5604": [
+    "docset\\manufacture\\desktop\\part-2--classic-style-deployment.md"
+  ],
+  "dcc274dc9f7adc14b527eeff09da65254073279c": [
+    "docset\\manufacture\\desktop\\pbr-faq.md"
+  ],
+  "4ebcf17aa7592fa53374b0dc6b029ed9dd105527": [
+    "docset\\manufacture\\desktop\\planning-create-different-product-designs-for-different-market-segments-sxs.md"
+  ],
+  "225c0e2bb5b2f762cf9abe28eb92eec93fc03e18": [
+    "docset\\manufacture\\desktop\\preinstall-apps-using-dism.md"
+  ],
+  "6aa53e8afb748c7473ef74481d5dba7ec2f7f69a": [
+    "docset\\manufacture\\desktop\\prepare-a-network-policy-server--nps--for-imaging.md"
+  ],
+  "9e7911f215c9b1c1f6c648162cbd2bc2c26ca827": [
+    "docset\\manufacture\\desktop\\prepare-a-snapshot-of-the-pc-generalize-and-capture-windows-images-blue-sxs.md"
+  ],
+  "a3cd4b46b5d67bf23697f5b56e442bb8aff050a2": [
+    "docset\\manufacture\\desktop\\push-button-reset-overview.md"
+  ],
+  "76fc8b15516539fffbc2c9c24192c18e4003c47c": [
+    "docset\\manufacture\\desktop\\reagentc-command-line-options.md"
+  ],
+  "9cb5855102d16e73e20ab30f0045bfd0fa0cbbdc": [
+    "docset\\manufacture\\desktop\\recovery-strategy-for-common-customizations.md"
+  ],
+  "16600c4510965e68e49c78723ece07ecba716564": [
+    "docset\\manufacture\\desktop\\reduce-the-size-of-the-component-store-in-an-offline-windows-image.md"
+  ],
+  "063e333475b536c8e2b46e268457a65abe906bc3": [
+    "docset\\manufacture\\desktop\\repair-a-windows-image.md"
+  ],
+  "f876efb01e0baabe400f758ca328772c217348cc": [
+    "docset\\manufacture\\desktop\\repair-the-boot-menu-on-a-dual-boot-pc.md"
+  ],
+  "877f556dcebb86312696c78bc6d8e89dc0f6c3f1": [
+    "docset\\manufacture\\desktop\\resetconfig-xml-reference-s14.md"
+  ],
+  "852a599ab77844b8b7d5026961366adfce49d043": [
+    "docset\\manufacture\\desktop\\run-audit-mode-in-the-factory.md"
+  ],
+  "e4ff177671343cc396fe238475b4c24035e46e7f": [
+    "docset\\manufacture\\desktop\\secure-boot-isnt-configured-correctly-determine-if-the-pc-is-in-a-manufacturing-mode--info-for-manufacturers.md"
+  ],
+  "cc33cd15befad2e2b89fbb4be87d76b826834d25": [
+    "docset\\manufacture\\desktop\\secure-boot-isnt-configured-correctly-troubleshooting.md"
+  ],
+  "ec3c9473b2dcbb440f36acb5e1fa752a405daae7": [
+    "docset\\manufacture\\desktop\\secure-boot-key-generation-and-signing-using-hsm--example.md"
+  ],
+  "626bbf3a1ac736356ec12b9fe6628c81177b69c3": [
+    "docset\\manufacture\\desktop\\secure-boot-overview.md"
+  ],
+  "2421ffb7a1aca06dfb3fb0bc68797895370d1a68": [
+    "docset\\manufacture\\desktop\\service-a-mounted-windows-image.md"
+  ],
+  "459f5445c5631ab09d2726d2d8c7ac89ceb31eab": [
+    "docset\\manufacture\\desktop\\service-an-applied-windows-image.md"
+  ],
+  "5cb237ba7732fd0ae5e18af805599753248a9c86": [
+    "docset\\manufacture\\desktop\\service-a-windows-image-using-dism.md"
+  ],
+  "5b2d4f462e33efebdc1be588cc040c8e64ac5206": [
+    "docset\\manufacture\\desktop\\service-a-windows-pe-image-with-dism.md"
+  ],
+  "b12b9fbf72d08e6f04b2fe8305c7556b37999ec3": [
+    "docset\\manufacture\\desktop\\servicing-the-image-with-windows-updates.md"
+  ],
+  "ef7bdf7ed0d277a892dd6f2e60722e2cf6dc6e32": [
+    "docset\\manufacture\\desktop\\set-the-default-power-plan-technicalreference.md"
+  ],
+  "2e1629272a0be9906849492778cf6a7685ae0370": [
+    "docset\\manufacture\\desktop\\settings-for-automating-oobe.md"
+  ],
+  "d3e0d04df360c479b79aad9e83b77c08b819c5dd": [
+    "docset\\manufacture\\desktop\\sideload-apps-with-dism-s14.md"
+  ],
+  "abbafc36a75d29b6512cd79591381ae9eee0ee51": [
+    "docset\\manufacture\\desktop\\specialize.md"
+  ],
+  "93e04e988c1fb1553f28f8dc34001f82b0b185b2": [
+    "docset\\manufacture\\desktop\\split-a-windows-image--wim--file-to-span-across-multiple-dvds.md"
+  ],
+  "5ee13251e84c0cce603c45d005b8334b9d661f87": [
+    "docset\\manufacture\\desktop\\sysprep-command-line-options.md"
+  ],
+  "4d43119f8acb0f40ce1f3025bfc5141a35d73959": [
+    "docset\\manufacture\\desktop\\sysprep--generalize--a-windows-installation.md"
+  ],
+  "c35f8bd24ebd8d9f597ac11fd9cee24afe04295b": [
+    "docset\\manufacture\\desktop\\sysprep-process-overview.md"
+  ],
+  "d5c51b25cfd0dc87f6bbce4e7a23bdf295c0a908": [
+    "docset\\manufacture\\desktop\\sysprep-support-for-server-roles.md"
+  ],
+  "eb7aad97e3789d283da88337976a7aeb13919144": [
+    "docset\\manufacture\\desktop\\sysprep--system-preparation--overview.md"
+  ],
+  "bad485a95d25445038c25ae260c47b7fc870c1ac": [
+    "docset\\manufacture\\desktop\\system-builder-deployment-of-windows-10-for-desktop-editions.md"
+  ],
+  "d4cff7a205b475b71f36fadc9855a6d75cbf574a": [
+    "docset\\manufacture\\desktop\\take-inventory-of-an-image-or-component-using-dism.md"
+  ],
+  "888f20951ae29323129d08365150f345d31a8fd7": [
+    "docset\\manufacture\\desktop\\test-battery-life-and-power-consumption-technicalreference.md"
+  ],
+  "5031bdffb609a981c82cc92632c262692c528d85": [
+    "docset\\manufacture\\desktop\\uefi-firmware.md"
+  ],
+  "1f3b61e4dd26ffb6e0516477d9dc73e0ef526ca8": [
+    "docset\\manufacture\\desktop\\uefi-installation-media-format-and-default-boot-behavior.md"
+  ],
+  "1ee8005190bfb515bbeb98f6a1f5e16144d7be66": [
+    "docset\\manufacture\\desktop\\uefi-requirements-boot-time-runtime-hibernation-state--s4.md"
+  ],
+  "03b717a34b5fd7ff2d494cf658f3298789d9b29c": [
+    "docset\\manufacture\\desktop\\uefi-validation-option-rom-validation-guidance.md"
+  ],
+  "c678e9a9269276419f4fcad6cb364c65070858a4": [
+    "docset\\manufacture\\desktop\\understanding-servicing-strategies.md"
+  ],
+  "194d0dde9c0b1290e84ee4590ef8ae9b9334dec5": [
+    "docset\\manufacture\\desktop\\understanding-virtual-hard-disks-with-native-boot.md"
+  ],
+  "b5fa004b8500d4ca8385b0272e95b8f6161c48e5": [
+    "docset\\manufacture\\desktop\\update-windows-settings-and-scripts-create-your-own-answer-file-sxs.md"
+  ],
+  "7836484c88656f2a58815ee456a1971a182855cd": [
+    "docset\\manufacture\\desktop\\use-a-configuration-set-with-windows-setup.md"
+  ],
+  "9d4c4946f0c863edc09d37c7a39f0dff5ddaa42f": [
+    "docset\\manufacture\\desktop\\use-answer-files-with-sysprep.md"
+  ],
+  "30eb122d074e29e9ff7e816e9e680361c9377cff": [
+    "docset\\manufacture\\desktop\\use-dism-in-windows-powershell-s14.md"
+  ],
+  "43a1b637d53f06d41be97eef7d3bb9f221a6f116": [
+    "docset\\manufacture\\desktop\\validating-windows-uefi-firmware-update-platform-functionality.md"
+  ],
+  "4c85f1d721e26e24a4b16401555e5a59bc17a744": [
+    "docset\\manufacture\\desktop\\what-is-dism.md"
+  ],
+  "6bd20a633a04cddecf5eab6339c554ae3509a32f": [
+    "docset\\manufacture\\desktop\\whats-new-in-dism-s14.md"
+  ],
+  "9fc2f315da40d302f1fa9bad80d9a4e2a1200864": [
+    "docset\\manufacture\\desktop\\whats-new-in-windows-pe-s14.md"
+  ],
+  "918a30de3d762a1b7a9d52c37e2664f51c659c7d": [
+    "docset\\manufacture\\desktop\\where-is-winpewim.md"
+  ],
+  "b5a11b1f1e4d50428b02e9a4555ef268e8344fb2": [
+    "docset\\manufacture\\desktop\\where-to-find-dism-s14.md"
+  ],
+  "b97a537fb11e2e92e05a6ac4d8445f193c49be26": [
+    "docset\\manufacture\\desktop\\wim-vs-ffu-image-file-formats.md"
+  ],
+  "8afd344b2adbe9de38a244099f01d5f1286075c9": [
+    "docset\\manufacture\\desktop\\windows-81-upgrade-scenarios-for-oems.md"
+  ],
+  "fa137fa166e40de10a8b01683fc36014e235707e": [
+    "docset\\manufacture\\desktop\\windows-deployment-command-line-tools-reference.md"
+  ],
+  "78b6b7de8449c713eb7f075bdcbd435ba1c5a771": [
+    "docset\\manufacture\\desktop\\windows-deployment-options.md"
+  ],
+  "153c31051707a5780036bcfd42f3f31013666ba9": [
+    "docset\\manufacture\\desktop\\windows-deployment-sample-scripts-sxs.md"
+  ],
+  "27eb3dc695724a8e83bf9a480fdabb4df6ae8fe4": [
+    "docset\\manufacture\\desktop\\windows-language-pack-default-values.md"
+  ],
+  "3646949d928ac66e7d4314614048a3e96340a4fa": [
+    "docset\\manufacture\\desktop\\windowspe.md"
+  ],
+  "128d0a543378b2baa9a8fefca71dbc5a5dce72db": [
+    "docset\\manufacture\\desktop\\windows-recovery-environment--windows-re--technical-reference.md"
+  ],
+  "a0d68e6f39f9a2fdcb2ee148c576d6dbef3125e0": [
+    "docset\\manufacture\\desktop\\windows-re-troubleshooting-features.md"
+  ],
+  "2a475a3b8ab9b913069becce668bcd70c8a5c6a5": [
+    "docset\\manufacture\\desktop\\windows-secure-boot-key-creation-and-management-guidance.md"
+  ],
+  "529d033bacec6b79a8c79352613b22963c6c1718": [
+    "docset\\manufacture\\desktop\\windows-server-deployment-options.md"
+  ],
+  "58d5913097308825e0d6f52cb106810a844a6316": [
+    "docset\\manufacture\\desktop\\windows-setup-automation-overview.md"
+  ],
+  "541113d025d982dd6abdd71b12c1af51381c9259": [
+    "docset\\manufacture\\desktop\\windows-setup-command-line-options.md"
+  ],
+  "07abe9bdc0bca9f3bd855f62749a4d2e12453b4e": [
+    "docset\\manufacture\\desktop\\windows-setup-configuration-passes.md"
+  ],
+  "09ea15ac67f32ea50bde385e9d21c356e4c4bc38": [
+    "docset\\manufacture\\desktop\\windows-setup-edition-configuration-and-product-id-files--eicfg-and-pidtxt.md"
+  ],
+  "4e92dbc7bfb3773749832a13cc0202cd256a6c49": [
+    "docset\\manufacture\\desktop\\windows-setup-installation-process.md"
+  ],
+  "b7c84c3b8cdf7148d2bfac3b6268b5b8ccf19a7d": [
+    "docset\\manufacture\\desktop\\windows-setup-installing-using-the-mbr-or-gpt-partition-style.md"
+  ],
+  "b723d9e83863650282f12d5faa6125a23414824c": [
+    "docset\\manufacture\\desktop\\windows-setup-log-files-and-event-logs.md"
+  ],
+  "ce9238829f6363b4747bd3b5f459acfef55d37a7": [
+    "docset\\manufacture\\desktop\\windows-setup-scenarios-and-best-practices.md"
+  ],
+  "d2cb273132b06ee300eda247f1291f28713339b9": [
+    "docset\\manufacture\\desktop\\windows-setup-states.md"
+  ],
+  "53d9da61e7ba80a9f750fc4b5cdb4fc97ba80c11": [
+    "docset\\manufacture\\desktop\\windows-setup-supported-platforms-and-cross-platform-deployments.md"
+  ],
+  "44eca29b2e08aa816b7a16dd1a23bea7d94e395c": [
+    "docset\\manufacture\\desktop\\windows-setup-technical-reference.md"
+  ],
+  "6dbb267fcb2d986fe502eb7a0940911a1a06764b": [
+    "docset\\manufacture\\desktop\\winpe-add-drivers.md"
+  ],
+  "9127a14f9b714ee9e14674b5dd6738ca1cb6963d": [
+    "docset\\manufacture\\desktop\\winpe-adding-powershell-support-to-windows-pe.md"
+  ],
+  "902c88018ba2b8e48acbbe218f7c6c97cdd8d47f": [
+    "docset\\manufacture\\desktop\\winpe-add-packages--optional-components-reference.md"
+  ],
+  "ad7ddf4497fb16a9b3f9aa9f30fbaf841024129a": [
+    "docset\\manufacture\\desktop\\winpe-boot-in-uefi-or-legacy-bios-mode.md"
+  ],
+  "9025b97226958d5e59c78092633a166d592aa4f2": [
+    "docset\\manufacture\\desktop\\winpe-create-a-boot-cd-dvd-iso-or-vhd.md"
+  ],
+  "9ef79007c09fb820e3c0a2b55ec0df1c6bd005ed": [
+    "docset\\manufacture\\desktop\\winpe-create-apps.md"
+  ],
+  "4b466e1dc3d86f0a65b481bee24c6323162ede9a": [
+    "docset\\manufacture\\desktop\\winpe-create-usb-bootable-drive.md"
+  ],
+  "b321ee0b90df4d07947ba482e26e69dcdfb8d2ae": [
+    "docset\\manufacture\\desktop\\winpe-debug-apps.md"
+  ],
+  "8760fc474b41f676e8a9bf7187612252ac728e00": [
+    "docset\\manufacture\\desktop\\winpe-install-on-a-hard-drive--flat-boot-or-non-ram.md"
+  ],
+  "5784ceca031cd76e998e277532f4b6ae05d2d66a": [
+    "docset\\manufacture\\desktop\\winpe-intro.md"
+  ],
+  "d12faf89ff8a1d04427f09c4b6472565696f9133": [
+    "docset\\manufacture\\desktop\\winpe-mount-and-customize.md"
+  ],
+  "20b1827d2e5a9f45f99e06f8afdc868547f06f15": [
+    "docset\\manufacture\\desktop\\winpe-network-drivers-initializing-and-adding-drivers.md"
+  ],
+  "8c5dce46489c8f5caed8f3260895216de0dc89c7": [
+    "docset\\manufacture\\desktop\\winpeshlini-reference-launching-an-app-when-winpe-starts.md"
+  ],
+  "2aad8a72ae1cd4c0a6649861bfd190cf6a39bace": [
+    "docset\\manufacture\\desktop\\winpe-storage-area-network--san--policy.md"
+  ],
+  "4095d2ca9ff1d5d841a42e185478d796dee0cb93": [
+    "docset\\manufacture\\desktop\\winpe--use-a-single-usb-key-for-winpe-and-a-wim-file---wim.md"
+  ],
+  "885e7bcbc7a6deb9b31da2cd88c2bf3e884dea93": [
+    "docset\\manufacture\\desktop\\work-with-product-keys-and-activation-auth-phases.md"
+  ],
+  "4cc55f0e2b70c745c940037db89e4f7f87530814": [
+    "docset\\manufacture\\desktop\\wpeinit-and-startnetcmd-using-winpe-startup-scripts.md"
+  ],
+  "e35b1b34e70e13d1c009979e3b6321a7f88c868c": [
+    "docset\\manufacture\\desktop\\wpeutil-command-line-options.md"
+  ],
+  "6e6e6735c365c6e3fc7ad034091314872aa60737": [
+    "docset\\manufacture\\index.md"
+  ],
+  "e6f8cef1cf9cc044ec043f294681f8c714f5b79a": [
+    "docset\\manufacture\\iot\\add-a-driver-to-an-image.md"
+  ],
+  "803ea7db6b626c8977ad730092de91972e83c5ec": [
+    "docset\\manufacture\\iot\\add-a-provisioning-package-to-an-image.md"
+  ],
+  "468e6ec2dff5ded85f67a1330269689c54fb14a8": [
+    "docset\\manufacture\\iot\\add-a-registry-setting-to-an-image.md"
+  ],
+  "bd3288cbce39ef83109947ed21966dc46dd5916e": [
+    "docset\\manufacture\\iot\\build-retail-image.md"
+  ],
+  "43b15e7a1bc7d509d2423cec4bca3d4cfc0478cf": [
+    "docset\\manufacture\\iot\\create-a-basic-image.md"
+  ],
+  "09353242dca989528d275b17103e8d83dee7ba29": [
+    "docset\\manufacture\\iot\\deploy-your-app-with-a-standard-board.md"
+  ],
+  "b5f08086d648c9eb029529270a06e77b2d0e21be": [
+    "docset\\manufacture\\iot\\images\\icdappmanager.png"
+  ],
+  "cf05a47040d648e5b6eb11b4a71e3c31f012ab27": [
+    "docset\\manufacture\\iot\\images\\oemworkflow.png"
+  ],
+  "5afdb3d64c31c8cdf819dff92de8dd3a21f96087": [
+    "docset\\manufacture\\iot\\images\\upgadeeditionwithlicense.png"
+  ],
+  "7418270404bccdae728304c5f6e5675d75a53507": [
+    "docset\\manufacture\\iot\\index.md"
+  ],
+  "3098510f6f728a1dff47217ed39c8381768f8d91": [
+    "docset\\manufacture\\iot\\iot-core-adk-addons.md"
+  ],
+  "8ef39cb893f631dc78ec0b60522cecb531d8e318": [
+    "docset\\manufacture\\iot\\iot-core-adk-addons-command-line-options.md"
+  ],
+  "a3b8bc9d8186838a3b2511dbfc202020f6329879": [
+    "docset\\manufacture\\iot\\iot-core-deployment-and-imaging.md"
+  ],
+  "140d28bcabbeae7187fa4d8d3bc2da889fef95fb": [
+    "docset\\manufacture\\iot\\iot-core-feature-list.md"
+  ],
+  "d6b8ac0c3584fca3a23e024e5e5c93fbf12efb6b": [
+    "docset\\manufacture\\iot\\iot-core-manufacturing-guide.md"
+  ],
+  "ec9414c0f46d425599be6c8f36ed709c48bba081": [
+    "docset\\manufacture\\iot\\replace-a-driver-in-an-existing-bsp.md"
+  ],
+  "882d1d8126298be31c153dc2ed5ef63cb3ef1ff0": [
+    "docset\\manufacture\\iot\\set-up-your-pc-to-customize-iot-core.md"
+  ],
+  "ddba6a7a9cbe447d305121c9ed9bbf5d905e6b13": [
+    "docset\\manufacture\\iot\\test-the-app.md"
+  ],
+  "3cb6687162b5cc4061011e4d7bf836c4e0d1485d": [
+    "docset\\manufacture\\iot\\whats-new-in-manufacturing.md"
+  ],
+  "e69e52ed702109b35e3a71fe7c2ebcf3acc69691": [
+    "docset\\manufacture\\mobile\\access-the-touch-interface-in-mmos.md"
+  ],
+  "9f3bc190db920c30c1ddd20a4e1b7f952426d34a": [
+    "docset\\manufacture\\mobile\\add-a-package-to-an-oem-manifest-file.md"
+  ],
+  "88de35047cb964f2afffc815033397be56c76406": [
+    "docset\\manufacture\\mobile\\adding-wi-fi-manufacturing-test-support-to-the-oid-interface.md"
+  ],
+  "2e31bd4a9c1e32fe4df0605bc148364800b3624c": [
+    "docset\\manufacture\\mobile\\boot-mode-management-uefi-protocol.md"
+  ],
+  "397553fad005dc9c365a3773d22dd2786b688816": [
+    "docset\\manufacture\\mobile\\build-a-customized-mobile-image-using-imggen.md"
+  ],
+  "7e4ec32bfe2d5f2249a2219a83d175ded5b31fdf": [
+    "docset\\manufacture\\mobile\\calling-setscreenoff-to-enter-connected-standby.md"
+  ],
+  "ef6b80b04abde5d6e2c5a497140b8cb956894e62": [
+    "docset\\manufacture\\mobile\\configure-customization-settings.md"
+  ],
+  "43c5d2b2ffbe5a1c81cd8c8f362136ba190e8cd7": [
+    "docset\\manufacture\\mobile\\configure-the-oeminput-file.md"
+  ],
+  "71e7632b33583d3c7db4cc33b10f028fa7d6dd2e": [
+    "docset\\manufacture\\mobile\\configure-the-start-layout.md"
+  ],
+  "967c4d9b9bc35e02c6b1ae4b378c31265c1a5ddd": [
+    "docset\\manufacture\\mobile\\creating-a-secure-mmos-wim-image.md"
+  ],
+  "ce82422456e4f42a59d26226bda54563ca4527c8": [
+    "docset\\manufacture\\mobile\\creating-mobile-packages.md"
+  ],
+  "5781db82e54607148398cab21c03e261db7cd714": [
+    "docset\\manufacture\\mobile\\deploy-and-test-a-user-mode-test-application-in-mmos.md"
+  ],
+  "3a84c044708ddb7924ac8326f6d31b1abd1ba666": [
+    "docset\\manufacture\\mobile\\determine-if-mmos-is-running.md"
+  ],
+  "4d8c4df8c17a8fa29ab0872154425fb61f71efe9": [
+    "docset\\manufacture\\mobile\\developing-custom-oem-flashing-tools.md"
+  ],
+  "d418fab199ce388818ae6ef734787880ebbbf484": [
+    "docset\\manufacture\\mobile\\develop-mmos-test-applications.md"
+  ],
+  "ad69e717824170604c6b58d93bdd51ee45a8ea72": [
+    "docset\\manufacture\\mobile\\disabling-the-initial-setup-process.md"
+  ],
+  "41eb6c239ed105e62d72bc85b62b5d91c58b4504": [
+    "docset\\manufacture\\mobile\\efi-boot-mode-info-enumeration.md"
+  ],
+  "bfb96a5e55803669450759f1917a9cd4507cb5bb": [
+    "docset\\manufacture\\mobile\\efi-boot-mode-mgmt-protocol-getbootmodeinfo.md"
+  ],
+  "5e4ae3bc7007e5a001fd4ce8c8ba425e778337d0": [
+    "docset\\manufacture\\mobile\\efi-boot-mode-mgmt-protocol-setbootmodeinfo.md"
+  ],
+  "52e8fc4f2051fd32e3fffc6ad2d4a7132c315fab": [
+    "docset\\manufacture\\mobile\\enable-manufacturing-mode.md"
+  ],
+  "d6e05dc603d63b301d55f09f3b632fd635e237f6": [
+    "docset\\manufacture\\mobile\\ffu-image-format.md"
+  ],
+  "8d3e6c5bd42b643e0ad8be0656a33e6d3d1b83ed": [
+    "docset\\manufacture\\mobile\\field-service-scenarios.md"
+  ],
+  "576ed3dbafafdace93d49b1ca3e78aee46523e38": [
+    "docset\\manufacture\\mobile\\flash-an-image-to-a-mobile-device.md"
+  ],
+  "2da4f6874ba64baebd511e7641e421ba2a8b1d1a": [
+    "docset\\manufacture\\mobile\\flashing-security-requirements.md"
+  ],
+  "95240ed774c2ba0336d48aad9d701578e9a1fafb": [
+    "docset\\manufacture\\mobile\\flashing-tools.md"
+  ],
+  "13448cc6c729786d96d72a0b18a5c4a7465ad8b7": [
+    "docset\\manufacture\\mobile\\flash-mmos-to-the-phone.md"
+  ],
+  "a967ac04864daae1de353b405b46534c5343d4b2": [
+    "docset\\manufacture\\mobile\\how-to-create-a-custom-manufacturing-profile.md"
+  ],
+  "e3e922fefbc918708e18598f0dd9ee259b431dc5": [
+    "docset\\manufacture\\mobile\\how-to-create-a-custom-manufacturing-profile-with-usbfn-settings.md"
+  ],
+  "893c9342631603a2426960b168fe251c4f1c7bbc": [
+    "docset\\manufacture\\mobile\\how-to-define-a-service-that-only-runs-in-manufacturing-mode.md"
+  ],
+  "eaf794ada644d0ab8abaae7394b84a0fc5f9c520": [
+    "docset\\manufacture\\mobile\\how-to-detect-manufacturing-mode.md"
+  ],
+  "98fff5bec70f4fa117bb4fedc236e77f113991ed": [
+    "docset\\manufacture\\mobile\\images\\import-cert.png"
+  ],
+  "04915fb08a89715c1eb1a6bc6f08f9593c130b94": [
+    "docset\\manufacture\\mobile\\images\\oem-ffuv2-image-format.png"
+  ],
+  "1efa5282890b5a2395e96d94db2cd2d50fda14ac": [
+    "docset\\manufacture\\mobile\\images\\oem-fieldservicesec-flashingreq.png"
+  ],
+  "32e2b632bd420edc88c8bf5c0526b7b08fdb1d11": [
+    "docset\\manufacture\\mobile\\images\\oem-manu-factory-processes-wim-mmos.png"
+  ],
+  "222cdceda09b27b77f8f9dd91ada945a4c3acc5b": [
+    "docset\\manufacture\\mobile\\images\\oem-manu-mte-design.png"
+  ],
+  "29b6feedf79cc7d28c27c047cc44090a45a140f6": [
+    "docset\\manufacture\\mobile\\images\\oem-manu-pc-flashing.png"
+  ],
+  "87ebc5fef0624253e97735af57129bb48281b081": [
+    "docset\\manufacture\\mobile\\images\\oem-manu-simple-factory-flow-apollo.png"
+  ],
+  "d4e39263aa6c474aee4e20b6d695a211cd882642": [
+    "docset\\manufacture\\mobile\\images\\oem-manu-simpleio.png"
+  ],
+  "068250afb03f9e74645a81976ee09711696fd6cc": [
+    "docset\\manufacture\\mobile\\images\\oem-manu-simple-refresh-flow-apollo.png"
+  ],
+  "c76cf1c9e0cf13ce5a5da4734b7de95663b9b205": [
+    "docset\\manufacture\\mobile\\images\\rlauthnprocess.png"
+  ],
+  "f62c5c8213ce5210cdaf29d36886bd1e4fa163c6": [
+    "docset\\manufacture\\mobile\\implementing-image-integrity-validation-in-custom-flashing-tools.md"
+  ],
+  "c11c1ed2e2999681885ce741de08c8b8481f002f": [
+    "docset\\manufacture\\mobile\\index.md"
+  ],
+  "baf56d4d2e21a657f587c5294bdaa2bf4f43e372": [
+    "docset\\manufacture\\mobile\\lab-1--classic-mobile-deployment.md"
+  ],
+  "e267998ff4627238a1f3d4dd7d54216f05882782": [
+    "docset\\manufacture\\mobile\\lab-2--mobile-deployment-using-windows-provisioning.md"
+  ],
+  "e51b0215e59a47ade79651b3d5b4376442fa3edf": [
+    "docset\\manufacture\\mobile\\manufacturing-mode.md"
+  ],
+  "d7e2e58bd734bb1fefe894132aefb48a2e95f008": [
+    "docset\\manufacture\\mobile\\manufacturing-mode-phone-call-testing-apis.md"
+  ],
+  "978b15d694efd7373750964c051b9847347f14ce": [
+    "docset\\manufacture\\mobile\\manufacturing-test-environment-supported-apis.md"
+  ],
+  "ad4a26c911de77d9a3e4a6c4d8b38b683ae6fb85": [
+    "docset\\manufacture\\mobile\\mfgphone-callstatus.md"
+  ],
+  "9bac014ceb031059f962975bf9febf31b98e1860": [
+    "docset\\manufacture\\mobile\\mfgphonedial.md"
+  ],
+  "e42f0ece64c633fb3baec970df8fc2f1be1260f8": [
+    "docset\\manufacture\\mobile\\mfgphoneendcall.md"
+  ],
+  "56524f2bdc36a6a405e7fc1c23e6afeb18297102": [
+    "docset\\manufacture\\mobile\\mfgphonegetsimlinecount.md"
+  ],
+  "b77c0be0843bd1fce22f1c5df0b0199684be4dc3": [
+    "docset\\manufacture\\mobile\\mfgphonegetsimlinedetail.md"
+  ],
+  "2011e31d1347f85e31008e10283cbfa67afecb52": [
+    "docset\\manufacture\\mobile\\mfgphonegetspeaker.md"
+  ],
+  "03ef382ceca11770f5636f5cd8ba47172e7c070b": [
+    "docset\\manufacture\\mobile\\mfgphoneinitialize.md"
+  ],
+  "26ef1878787750cdf95a0f8f71ea44705fd19007": [
+    "docset\\manufacture\\mobile\\mfgphone-linesystemtype.md"
+  ],
+  "53cf977ead58e7bb834ac4536fa23771b2e40e23": [
+    "docset\\manufacture\\mobile\\mfgphone-registrationstate.md"
+  ],
+  "2554ade47d36becbc10299bbbcd4442e6fe08e28": [
+    "docset\\manufacture\\mobile\\mfgphonesetsimlineeventnotifycallback.md"
+  ],
+  "9a1d3ed5827800185d3cee29223d400d8d1c29fa": [
+    "docset\\manufacture\\mobile\\mfgphonesetspeaker.md"
+  ],
+  "92a6337c36180d4cfd9aa9443920390a79f76512": [
+    "docset\\manufacture\\mobile\\mfgphone-simlinedetail.md"
+  ],
+  "a8aaa887767a861917db87e63626096a16acef8e": [
+    "docset\\manufacture\\mobile\\mfgphone-simstate.md"
+  ],
+  "d4a6f957c18bd56aac6024b583774b92c6d09b66": [
+    "docset\\manufacture\\mobile\\mfgphoneuninitialize.md"
+  ],
+  "b5a4885702f38f3b9272cfa94a556179798da2b3": [
+    "docset\\manufacture\\mobile\\microsoft-manufacturing-os.md"
+  ],
+  "29667cfcb2176a66afba6caa96b66c6e56b053b5": [
+    "docset\\manufacture\\mobile\\mmos-image-definition.md"
+  ],
+  "db39030c6ec4b0df09fc147a34598461101bc08b": [
+    "docset\\manufacture\\mobile\\mobile-deployment-and-imaging.md"
+  ],
+  "59b78ebd6f96d0b73c8c03044784c3c9d77e6b53": [
+    "docset\\manufacture\\mobile\\optional-features-for-manufacturing-mode.md"
+  ],
+  "46a1fc07359e5d2d47d541ea87b8a621efb746b9": [
+    "docset\\manufacture\\mobile\\preparing-for-windows-mobile-development.md"
+  ],
+  "4fccff68764d3c09f6da2a8fd2f7db4e92b9cb9d": [
+    "docset\\manufacture\\mobile\\reporting-operating-mode-capabilities.md"
+  ],
+  "a7156a84242a67b7b333cb384129e189663c9eac": [
+    "docset\\manufacture\\mobile\\reset-protection.md"
+  ],
+  "324bc99b1692d6e4d0ff08ba904648b6a1268ca8": [
+    "docset\\manufacture\\mobile\\resetting-a-phone-during-manufacturing.md"
+  ],
+  "2559700bc7d81f04b9dcc47ff30c63c837ec88e9": [
+    "docset\\manufacture\\mobile\\sign-a-mobile-image.md"
+  ],
+  "2dcb3ece63fc08ab141657711bb3bf7c930747c9": [
+    "docset\\manufacture\\mobile\\skip-oobe-and-preinstall-apps.md"
+  ],
+  "db39e1ab6be8e734c5cdb78a9a1a415990da2b47": [
+    "docset\\manufacture\\mobile\\supporting-existing-oid-commands-in-manufacturing-mode.md"
+  ],
+  "ae25ee3cfd473c507a4af2a8760ea251e0456be7": [
+    "docset\\manufacture\\mobile\\supporting-new-callbacks-for-manufacturing-mode.md"
+  ],
+  "700e3af13f4a533baa5e384e5be6bf59b112f58c": [
+    "docset\\manufacture\\mobile\\supporting-new-oid-commands-for-manufacturing-mode.md"
+  ],
+  "716212cf5c08c06517dbb74d5b2e3ea5a8bd0d55": [
+    "docset\\manufacture\\mobile\\supporting-updated-oid-behavior-in-manufacturing-mode.md"
+  ],
+  "fe50986b73b142fdfae02e53db8dc73e9f3551f5": [
+    "docset\\manufacture\\mobile\\use-the-windows-icd-cli-to-customize-and-build-a-mobile-image.md"
+  ],
+  "0a0d86dd61061a3cd7d18dbd318d52f3e52e6b6e": [
+    "docset\\manufacture\\mobile\\use-the-windows-icd-ui-to-customize-and-build-a-mobile-image.md"
+  ],
+  "cd4087090d1de76b535e9c35957e7f9a769bab41": [
+    "docset\\manufacture\\mobile\\using-a-host-computer-to-reboot-a-phone-to-flashing-mode-and-get-phone-version-information.md"
+  ],
+  "227c6a850aa6b51951dc908f5690a7ea0dc98e10": [
+    "docset\\manufacture\\mobile\\wi-fi-manufacturing-api.md"
+  ],
+  "d85eafe560fddaae5b22752026c78d3a3f50f11b": [
+    "docset\\manufacture\\mobile\\wlanmteawake.md"
+  ],
+  "1200874e261fece4eaed48002a15b35bfed4a8f9": [
+    "docset\\manufacture\\mobile\\wlanmteclosehandle.md"
+  ],
+  "227ea74932ebf0b2baf0571ff52fbba5b4960d0a": [
+    "docset\\manufacture\\mobile\\wlanmtederegistercallbackhandler.md"
+  ],
+  "40d209ae6211bac7ec9fae5e4d1603b6cec08248": [
+    "docset\\manufacture\\mobile\\wlanmteenumadapters.md"
+  ],
+  "efb1062eb4df2a0d2cc327bfb8d0c3f544a4b217": [
+    "docset\\manufacture\\mobile\\wlanmtegetvendorinfo.md"
+  ],
+  "6ecb038c3258c42e5df08c1e1e5a3ce4225ceb12": [
+    "docset\\manufacture\\mobile\\wlanmteopenhandle.md"
+  ],
+  "58ef673b3dccf23132fc112a35e0def3c5472d96": [
+    "docset\\manufacture\\mobile\\wlanmtequeryadc.md"
+  ],
+  "f00d92cd40972cb8bfa4cce97376347c05d370ca": [
+    "docset\\manufacture\\mobile\\wlanmtequerydata.md"
+  ],
+  "792dd1033e35f1f243e77afafeb11ba4392492df": [
+    "docset\\manufacture\\mobile\\wlanmtequerymacaddress.md"
+  ],
+  "caa55460104aa5d55fdd8db978e178296b485e8c": [
+    "docset\\manufacture\\mobile\\wlanmtequeryphytypes.md"
+  ],
+  "e2bf1e6c7fc605d3a2088033ceefd9bb50aaca48": [
+    "docset\\manufacture\\mobile\\wlanmtequeryselftestresult.md"
+  ],
+  "21476af8a0e6316d4ee4a27144c78e29c574367f": [
+    "docset\\manufacture\\mobile\\wlanmteregistercallbackhandler.md"
+  ],
+  "aed42521e02acbb5bc995d7bb01f82d35cbb788a": [
+    "docset\\manufacture\\mobile\\wlanmteresetadapter.md"
+  ],
+  "88a6a3ba466829ef6d2bfbc1dd4fdab5e0b11fd8": [
+    "docset\\manufacture\\mobile\\wlanmterxsignal.md"
+  ],
+  "0233f363671b667e42b5a32a365bf362b8c08bdd": [
+    "docset\\manufacture\\mobile\\wlanmtesetdata.md"
+  ],
+  "16790066fbc868a059aa2452f9f30d0c8f397dcf": [
+    "docset\\manufacture\\mobile\\wlanmtesleep.md"
+  ],
+  "c31eb0c4fdcb55214e30a2cd915ea6138a8f01c9": [
+    "docset\\manufacture\\mobile\\wlanmtestartselftest.md"
+  ],
+  "a6311983f985a344241c0304ee651d9e5d54bb3b": [
+    "docset\\manufacture\\mobile\\wlanmtetxsignal.md"
+  ],
+  "856d4c0e05a2c47b590425080e136a78ab69d049": [
+    "docset\\manufacture\\mobile\\working-with-wim-mmos-images.md"
+  ],
+  "05b44064cf4cce7f2b47297a7e1ea24fabd03cc9": [
+    "docset\\manufacture\\sxs\\oem-deployment-of-windows-10-for-desktop-editions.md"
+  ],
+  "31eba9fdf91b29c0d31665a02996910193893f6c": [
+    "docset\\manufacture\\sxs\\system-builder-deployment-of-windows-10-for-desktop-editions.md"
+  ],
+  "d80a0057948e8bb5a46f5a609a40a247b97567a7": [
+    "docset\\performance\\assessments\\add-assets-to-windows-assessment-services-inventory.md"
+  ],
+  "0cf34133694b79d83e95f40a2ea6e2ee9e52fd48": [
+    "docset\\performance\\assessments\\analyze-results-on-another-device.md"
+  ],
+  "aef1c5b790c7975c6abd4200f09c0ba303800291": [
+    "docset\\performance\\assessments\\assessment-platform-command-line-syntax.md"
+  ],
+  "698cecc3a3201240b10ce3ff1f2d4f0d7478d0ad": [
+    "docset\\performance\\assessments\\assessments.md"
+  ],
+  "f9bce21a84793e13083c5ca8013bd3ec009821cd": [
+    "docset\\performance\\assessments\\automate-reboots-before-you-run-an-assessment.md"
+  ],
+  "d0ee25d056073d7651f08b777b7c1c8cbf105932": [
+    "docset\\performance\\assessments\\common-in-depth-analysis-issues.md"
+  ],
+  "8fe5996e6a88bbde22b0bb6ffa3774b0b66075e0": [
+    "docset\\performance\\assessments\\compare-results.md"
+  ],
+  "5b4b46bb81e977a7d9dde8557d0c55727d75e4f2": [
+    "docset\\performance\\assessments\\connected-standby-energy-efficiency.md"
+  ],
+  "3a912c59a2e5a547a84bbb5ef92a3c066615029a": [
+    "docset\\performance\\assessments\\create-and-run-an-energy-efficiency-job.md"
+  ],
+  "494460254add2af44a77440a6a9f2e41ce47dada": [
+    "docset\\performance\\assessments\\create-baseline-results-for-comparing-windows-images.md"
+  ],
+  "41ef395af7aea286e9fa40a651fa18e5f0554418": [
+    "docset\\performance\\assessments\\deploy-windows-using-windows-assessment-services.md"
+  ],
+  "8077e061a8ef592d9c242e6d5776bef54631ac95": [
+    "docset\\performance\\assessments\\driver-verification.md"
+  ],
+  "3604a147e06361300af9407eab81426a28cd5a6a": [
+    "docset\\performance\\assessments\\edge-security-software-impact.md"
+  ],
+  "539a1a14eb3cc6d973feae2dc83016a72748c03d": [
+    "docset\\performance\\assessments\\file-handling.md"
+  ],
+  "f5c38d856725e961f63480fbef34c4319ccca0b7": [
+    "docset\\performance\\assessments\\filter-results.md"
+  ],
+  "5faf7e24cb4408b64c69dc229a30bb142918ef20": [
+    "docset\\performance\\assessments\\group-filter-and-search-issues.md"
+  ],
+  "90db4f07ec6b17bee20e10d98f732123a3bfa3b5": [
+    "docset\\performance\\assessments\\images\\adk-wasc-workflow.jpg"
+  ],
+  "8073be14d0428b7d0238e21ac2bb5fa75b16b4b3": [
+    "docset\\performance\\assessments\\images\\dep-iessi.png"
+  ],
+  "7debea5efc6b46505d231971e25cafe6c8aa033a": [
+    "docset\\performance\\assessments\\images\\dep-was-sxs-topology.jpg"
+  ],
+  "7617d1a2dab4d030c83a922d65a97a462a072cf6": [
+    "docset\\performance\\assessments\\images\\dep-win8-8-techref-driverassessmentflow.jpg"
+  ],
+  "5cd88316aacd63284b34f478c694baeb3a92f985": [
+    "docset\\performance\\assessments\\images\\dep-win8-8-techref-fileorgassessmentflow.jpg"
+  ],
+  "019bcceb652db1f62eedfd4ce2244052d3857195": [
+    "docset\\performance\\assessments\\images\\dep-win8-8-techref-ielaunchflow.jpg"
+  ],
+  "93966d45086f0ca7aa5c2e1edeae79218eb2f623": [
+    "docset\\performance\\assessments\\images\\dep-win8-8-techref-mediatranscodingflow.jpg"
+  ],
+  "a5766475e35b6dff14fb1b92d66a40ad6a194abe": [
+    "docset\\performance\\assessments\\images\\dep-win8-8-techref-memoryfootprint.jpg"
+  ],
+  "0fb095fcfc755a1f92c8ac36695068b72404917e": [
+    "docset\\performance\\assessments\\images\\dep-win8-8-techref-minifilterdrilldown.jpg"
+  ],
+  "408824a9929a00dcba014e2af5475ae23c74f5e4": [
+    "docset\\performance\\assessments\\images\\dep-win8-8-techref-minifilterdrilldown-sample.jpg"
+  ],
+  "29fb16872e913a9ede96369d33a7faeeb6da3b6b": [
+    "docset\\performance\\assessments\\images\\dep-win8-8-techref-on-off-combined.jpg"
+  ],
+  "119a00b3eca270534e98da4d7b8c56f8f03d66d4": [
+    "docset\\performance\\assessments\\images\\dep-win8-8-techref-streamingmedia.jpg"
+  ],
+  "8c06a6f91b74d9ad9104f43ce214964c4dc92f07": [
+    "docset\\performance\\assessments\\images\\dep-win8-8-techref-wmpassessmentflow.jpg",
+    "docset\\performance\\assessments\\images\\dep-win8-adk-assessmentoverviewflowchart.jpg"
+  ],
+  "042d36254453f805f7b9305fb5955e74ef1f05cc": [
+    "docset\\performance\\assessments\\import-results.md"
+  ],
+  "3ecd91e62091a681581daa004db6119927e2b7bf": [
+    "docset\\performance\\assessments\\index.md"
+  ],
+  "6ca5139fbe5f07ef002fca8034df0fead0cb4eaa": [
+    "docset\\performance\\assessments\\installing-windows-assessment-services-wastechref.md"
+  ],
+  "ec2ede91fb1573e50f8ec5a3baaf762152d311f5": [
+    "docset\\performance\\assessments\\internet-explorer-security-software-impact.md"
+  ],
+  "3ba267ed218b9bf9c3a67282aaefb51c11a792ea": [
+    "docset\\performance\\assessments\\internet-explorer-startup-performance.md"
+  ],
+  "478b44a280e3716c7a92ff15ee8051d210e35512": [
+    "docset\\performance\\assessments\\local-video-playback.md"
+  ],
+  "57deb9711ffac10bcc7224d051ab9b0b8d1bbd6e": [
+    "docset\\performance\\assessments\\media-transcoding-performance.md"
+  ],
+  "74db6e78f2d95523f6d0cf91a5efbb07809fe459": [
+    "docset\\performance\\assessments\\memory-footprint.md"
+  ],
+  "b26973a70b88a8f9a1ae5da4ee70bd323b4a5400": [
+    "docset\\performance\\assessments\\minifilter-diagnostics.md"
+  ],
+  "d9e2b29142d2856ccd72a76a74cf7c53789236a6": [
+    "docset\\performance\\assessments\\onoff-transition-performance.md"
+  ],
+  "0ffab09db5ae57251afd0fd371dac8f846b803bb": [
+    "docset\\performance\\assessments\\out-of-box-experience.md"
+  ],
+  "899da110a81c16d8cc4319ab2df0f5de4b338cb3": [
+    "docset\\performance\\assessments\\package-a-job-and-run-it-on-another-computer.md"
+  ],
+  "e8aabc6f4e6ce106d4dc36c22c6eddcbe82811cc": [
+    "docset\\performance\\assessments\\prepare-to-deploy-and-assess-a-bare-metal-computer.md"
+  ],
+  "94ab1fee17d06076cee8a5f0275b3863ae82c6fc": [
+    "docset\\performance\\assessments\\register-and-unregister-custom-assessments.md"
+  ],
+  "c498daaef5a41f3a0c70d5e94367c16430d427ae": [
+    "docset\\performance\\assessments\\results-for-internet-explorer-security-software-impact-assessment.md"
+  ],
+  "282e57c0b8556caa01c38f45cb5fbb47dc04d166": [
+    "docset\\performance\\assessments\\results-for-the-connected-standby-energy-efficiency-assessment.md"
+  ],
+  "49a3c1bd279068d041cdf44348c45fd1a1c70bdb": [
+    "docset\\performance\\assessments\\results-for-the-driver-verification-assessment.md"
+  ],
+  "06b21f7094f3524d819ad02d4190032e5df14b5d": [
+    "docset\\performance\\assessments\\results-for-the-edge-security-software-impact-assessment.md"
+  ],
+  "15ac820e890b29ceb2ceff9fdfd7205f4efe0319": [
+    "docset\\performance\\assessments\\results-for-the-file-handling-assessment.md"
+  ],
+  "f6d8ef3c710033163e474440406001d7325140ff": [
+    "docset\\performance\\assessments\\results-for-the-internet-explorer-startup-performance-assessment.md"
+  ],
+  "9859697236090f931153e267df1242d19dea8392": [
+    "docset\\performance\\assessments\\results-for-the-local-video-playback-assessment.md"
+  ],
+  "16ae9d5d571089c55e2c19194aaf0e1259eb9658": [
+    "docset\\performance\\assessments\\results-for-the-media-transcoding-performance-assessment.md"
+  ],
+  "8c9035bd093c66d2d13f304cb5ce52e75a5da320": [
+    "docset\\performance\\assessments\\results-for-the-memory-footprint-assessment.md"
+  ],
+  "408ad5e69844944375495c0341f162a062d70dc6": [
+    "docset\\performance\\assessments\\results-for-the-onoff-assessments.md"
+  ],
+  "425b2e817fad76f7cc24651f811e94a50869979f": [
+    "docset\\performance\\assessments\\results-for-the-out-of-box-experience-assessment.md"
+  ],
+  "3cbf0ef881bf3a30005c0f37b06c0bbbeaff9c5c": [
+    "docset\\performance\\assessments\\results-for-the-streaming-media-performance-assessment.md"
+  ],
+  "522b73f7f92c3bc368c863c05a7ea45674f8b364": [
+    "docset\\performance\\assessments\\results-for-the-windows-media-player-performance-and-quality-assessment.md"
+  ],
+  "775aede3276a8519b7fa7db2a0b1772e28cd7a5a": [
+    "docset\\performance\\assessments\\results-for-the-windows-store-app-performance-assessment.md"
+  ],
+  "61b3730c2a49d8fa00d73bf937491fc5dbc6a3a8": [
+    "docset\\performance\\assessments\\resultsutil-command-line-options.md"
+  ],
+  "7906378b81ddecefeaa0513f58e4ac6a0091a43d": [
+    "docset\\performance\\assessments\\set-up-a-remote-server-for-the-streaming-media-performance-assessment.md"
+  ],
+  "372d618ba73ecad01f6f2140030b11055703bfd3": [
+    "docset\\performance\\assessments\\streaming-media-performance.md"
+  ],
+  "edb32538a8827a5e411e202846e623bdac39525e": [
+    "docset\\performance\\assessments\\troubleshooting-assessments-wac.md"
+  ],
+  "0ddf3166c7c9907c6ada6faab646b32f2f0dda46": [
+    "docset\\performance\\assessments\\troubleshooting-windows-assessment-services--wastechref.md"
+  ],
+  "a3320ca701390426690602b7804cab339bc52b86": [
+    "docset\\performance\\assessments\\windows-assessment-console.md"
+  ],
+  "122389c84b554139b38022463ab3f2602ab4ace7": [
+    "docset\\performance\\assessments\\windows-assessment-console-common-scenarios.md"
+  ],
+  "c58a236e8e54b8e571b8378f9ebd52410d61dc9a": [
+    "docset\\performance\\assessments\\windows-assessment-console-overview.md"
+  ],
+  "9d3645f7471d62cb3584c6a623d45c446df12b1a": [
+    "docset\\performance\\assessments\\windows-assessment-console-step-by-step-guide.md"
+  ],
+  "e203e9ecd5cb4cf3f8676503fd94b442e4fe59de": [
+    "docset\\performance\\assessments\\windows-assessment-services-how-to-topics--wastechref.md"
+  ],
+  "0a426c23303b6381bf2305ee1db7e3a306525a92": [
+    "docset\\performance\\assessments\\windows-assessment-services-overview--wastechref.md"
+  ],
+  "e48e04835d51d5f62bde8a72c07c1113286508fc": [
+    "docset\\performance\\assessments\\windows-assessment-services-setup-and-configuration-wastechref.md"
+  ],
+  "e370de3abfb8e470af05390a137784374d7a3242": [
+    "docset\\performance\\assessments\\windows-assessment-services-step-by-step-guide-was.md"
+  ],
+  "06071959518baf3cf1d0a39b93a531b4a04503ce": [
+    "docset\\performance\\assessments\\windows-assessment-services-technical-reference.md"
+  ],
+  "270bbf9a56d0f98fc1840512ed2807077d0cc190": [
+    "docset\\performance\\assessments\\windows-assessment-toolkit-technical-reference.md"
+  ],
+  "e20de0506e9939735ca9dd98a4432658a0b19106": [
+    "docset\\performance\\assessments\\windows-media-player-performance-and-quality.md"
+  ],
+  "e208d89697fbb90e551a0ad225868a1711fe4768": [
+    "docset\\performance\\assessments\\windows-store-app-performance.md"
+  ],
+  "cc504a340b9d11e5b95b02d49c6d2e28b8ec0726": [
+    "docset\\performance\\index.md"
+  ],
+  "0e774d88d6b62ca75a582958b940abdc27031d71": [
+    "docset\\performance\\mobile-tracing\\capture-event-trace-logs-on-windows-phone.md"
+  ],
+  "83671a4bb8be18d89aa77e4616663bd31534ddc2": [
+    "docset\\performance\\mobile-tracing\\capture-power-management-events-on-windows-phone.md"
+  ],
+  "f51c918d1ba2a9800a7da6acf4838b452273ecb3": [
+    "docset\\performance\\mobile-tracing\\custom-logging-with-field-medic.md"
+  ],
+  "9338b605ec7ad6847ff13f85205dd3d796ccb168": [
+    "docset\\performance\\mobile-tracing\\field-medic.md"
+  ],
+  "d3696723653b49cf011d279dd8dec72f30d38c83": [
+    "docset\\performance\\mobile-tracing\\find-etw-providers-on-windows-phone-.md"
+  ],
+  "faef783c40fb007dcbf1aeeafe4a9e7697807bca": [
+    "docset\\performance\\mobile-tracing\\images\\oem-field-medic-wp-ss-20140109-0001.png"
+  ],
+  "e653b95fd8b35c9b5547212623283d25bc221d4c": [
+    "docset\\performance\\mobile-tracing\\images\\oem-field-medic-wp-ss-20140109-0003.png"
+  ],
+  "348f04db14563082ce94f9005449e133879cc2ab": [
+    "docset\\performance\\mobile-tracing\\images\\oem-field-medic-wp-ss-20140109-0005.png"
+  ],
+  "9d70a8d4fb4c968b4aa9eef70741f2e22ff20180": [
+    "docset\\performance\\mobile-tracing\\images\\oem-field-medic-wp-ss-20140109-0008.png"
+  ],
+  "9b30a503970163a930b5c27ece4a121a7e27f711": [
+    "docset\\performance\\mobile-tracing\\images\\oem-field-medic-wp-ss-20140109-0010.png"
+  ],
+  "934b9d380a00a6336651148bb309a5b4e45fa100": [
+    "docset\\performance\\mobile-tracing\\images\\oem-field-medic-wp-ss-20140109-0011.png"
+  ],
+  "9d1790d3d2d918519668492732c5168413f470e6": [
+    "docset\\performance\\mobile-tracing\\images\\oem-field-medic-wp-ss-20140114-0002.png"
+  ],
+  "5927b136272d4a9bee23665765019823fb936046": [
+    "docset\\performance\\mobile-tracing\\images\\oem-softwaretracing-fieldmedic-customlogging.png"
+  ],
+  "f99fcdaec51ec16ba47f948e0ac532d70db00c28": [
+    "docset\\performance\\mobile-tracing\\index.md"
+  ],
+  "1d0ab5166af1066dc1abafb3e2e1ad85a6db11f9": [
+    "docset\\performance\\mobile-tracing\\retrieve-retail-etw-logs.md"
+  ],
+  "25defb0fb7258f8ef0922597571b30af278d834d": [
+    "docset\\performance\\mobile-tracing\\use-field-medic-from-a-command-prompt.md"
+  ],
+  "cf896546a45f2cf3f233db77c9f11eee9ec2a5a3": [
+    "docset\\performance\\mobile-tracing\\use-field-medic-to-generate-a-report.md"
+  ],
+  "23980585030be96043c8d5c51a02cc0f37d60339": [
+    "docset\\performance\\wpt\\1-collector-definitions.md"
+  ],
+  "342536649a35b9377a99385454a5df50e4d2c96b": [
+    "docset\\performance\\wpt\\2-system-and-event-provider-definitions.md"
+  ],
+  "92e7fa1ee5bd0e5065fba4a1f598fdd999b0064d": [
+    "docset\\performance\\wpt\\3-profile-definitions.md"
+  ],
+  "6c13657808f557c0515b3a88885707e5e24fa969": [
+    "docset\\performance\\wpt\\add.md"
+  ],
+  "54968e660053682f940a2387cfa1964add4b4e51": [
+    "docset\\performance\\wpt\\add-or-remove-a-custom-recording-profile.md"
+  ],
+  "12cc238fbca0cb10f53c593aae94b3524ed28905": [
+    "docset\\performance\\wpt\\analysis-assistant.md"
+  ],
+  "ee2628f0c143bace284e7636e06c9a134776767b": [
+    "docset\\performance\\wpt\\analysis-tab.md"
+  ],
+  "f625f8edda4fb034d4dbfd0aa696d0fd78c0d68e": [
+    "docset\\performance\\wpt\\apply-a-view-profile.md"
+  ],
+  "9e8471290cd48444153374dd9e41f7d7a826627d": [
+    "docset\\performance\\wpt\\apply-create-or-delete-a-preset-combination-of-columns-to-display.md"
+  ],
+  "e5dcf987dcec1844b79d4715406c9ad23f73130a": [
+    "docset\\performance\\wpt\\author-a-custom-recording-profile.md"
+  ],
+  "5f3ffd42f1fe2f80d6c0815eb45e629300923e41": [
+    "docset\\performance\\wpt\\authoring-recording-profiles.md"
+  ],
+  "d92112e280245743d4db10835c8f793f6170a104": [
+    "docset\\performance\\wpt\\avoid-lost-events.md"
+  ],
+  "56569fdb581fe25170a6beca20863e97df03e426": [
+    "docset\\performance\\wpt\\big-picture.md"
+  ],
+  "d6851d76732ee5bc8dc91d5f583021c5e91e19f9": [
+    "docset\\performance\\wpt\\boot.md"
+  ],
+  "e006407b6fbca0e46bbaa577fe0bcacb266ad85f": [
+    "docset\\performance\\wpt\\bootprefetch.md"
+  ],
+  "3e65c29735765d42d38bb530e2fbf113071c97fa": [
+    "docset\\performance\\wpt\\buffers.md"
+  ],
+  "615f06e6d678534cb4f7635bb031be780aaaae08": [
+    "docset\\performance\\wpt\\buffersize.md"
+  ],
+  "137fb4c232443e7d560b07d15d40302c3fefe308": [
+    "docset\\performance\\wpt\\built-in-recording-profiles.md"
+  ],
+  "2ff09796bc17773ccccf15e5ec99b5bc137c3367": [
+    "docset\\performance\\wpt\\cancel.md"
+  ],
+  "2356831d7cdcfeb5ac5b44b9c388d2ad282398b9": [
+    "docset\\performance\\wpt\\capturestateonsave.md"
+  ],
+  "0c4f78b0297862f35a5ecbc783acdf53837b08d0": [
+    "docset\\performance\\wpt\\capturestateonstart.md"
+  ],
+  "baa0d22608f89745ab9eb9cced25afa80680b1dc": [
+    "docset\\performance\\wpt\\ccontrolmanager.md"
+  ],
+  "de4ee36fdb5d9f777092f028e7b65f03c96e963c": [
+    "docset\\performance\\wpt\\change-the-detail-level.md"
+  ],
+  "20ad7b7dce9e127a79a3a6e1b069070ae98d8dd3": [
+    "docset\\performance\\wpt\\change-the-logging-mode.md"
+  ],
+  "d4a35bd6e77968efb39836f0f05a5e1930261eae": [
+    "docset\\performance\\wpt\\change-the-performance-scenario.md"
+  ],
+  "c47b09b3da29ecd939b3d68bfbbe17ec716580ce": [
+    "docset\\performance\\wpt\\change-the-view-layout.md"
+  ],
+  "501f25e610f70004e5142c8dd2f886639d6ca7ad": [
+    "docset\\performance\\wpt\\classes.md"
+  ],
+  "a576f2945678ed3c4c5bf78ca565a67f424e4439": [
+    "docset\\performance\\wpt\\classic-versus-rich-menu.md"
+  ],
+  "729825c8e9ca2c00562e45d8e72956a7c302bfc9": [
+    "docset\\performance\\wpt\\clear.md"
+  ],
+  "9988791f84f17941cad22d566030e738ee614ffd": [
+    "docset\\performance\\wpt\\clone.md"
+  ],
+  "5976be0351460c1caa9c7c0fb256d653c2299c01": [
+    "docset\\performance\\wpt\\clone-ienumprofile.md"
+  ],
+  "2d30ae1e6e12bf51409cb9abe4b338312623693f": [
+    "docset\\performance\\wpt\\collectors.md"
+  ],
+  "4ba29081ba763a4ae28b5ef779060ac71c6877a6": [
+    "docset\\performance\\wpt\\comparative-analysis-views.md"
+  ],
+  "737d00bacc20f5030284a2ac4e6bce9c739e0b35": [
+    "docset\\performance\\wpt\\cprofile.md"
+  ],
+  "93e66a12e4462065c6b037030fa1bfdec266c5ab": [
+    "docset\\performance\\wpt\\cprofilecollection.md"
+  ],
+  "02b81e2652520b142d9e4c564893bd906b5b47aa": [
+    "docset\\performance\\wpt\\cpu-analysis.md"
+  ],
+  "f5808ad4836f2d15d26f5b510086570fc68112cd": [
+    "docset\\performance\\wpt\\cpudisk.md"
+  ],
+  "4a882bfa80c013169eac31face186e2b60da7562": [
+    "docset\\performance\\wpt\\createmergedtracefile.md"
+  ],
+  "c2d82e729309c3e2010c1ed65fac74873e860b74": [
+    "docset\\performance\\wpt\\creating-a-regions-of-interest-file.md"
+  ],
+  "ebe56ed38550a465d1d2b2e1f7b183061b0b8f77": [
+    "docset\\performance\\wpt\\cswitch.md"
+  ],
+  "03215c119b93ea8511b2e8a92989d0b295e00c44": [
+    "docset\\performance\\wpt\\ctracemergeproperties.md"
+  ],
+  "846643eb00e0835eeac97557849e784ac59ba573": [
+    "docset\\performance\\wpt\\customevent.md"
+  ],
+  "3b703306e4b75c388cf6b05358a499d963d04fb7": [
+    "docset\\performance\\wpt\\customevents.md"
+  ],
+  "01f2babbebb0f1ec4840376d0387b0cff23f329f": [
+    "docset\\performance\\wpt\\custom-injection-of-system-information.md"
+  ],
+  "609039cb925ef908dde9e75ef1012217dbc40d68": [
+    "docset\\performance\\wpt\\customize-a-data-table.md"
+  ],
+  "39393d45f28fa01458dee51b21a4510060a8d8c8": [
+    "docset\\performance\\wpt\\customizing-spinlock-parameters.md"
+  ],
+  "10a7f19b5cc4b9d50005542bbe33450e7b4fce01": [
+    "docset\\performance\\wpt\\customkeyword.md"
+  ],
+  "1b69fe413af700f42f17503f72431013dc770e6c": [
+    "docset\\performance\\wpt\\data-tables.md"
+  ],
+  "7d8fbf8287212fa3aa2c0e53b453c54fa08ade48": [
+    "docset\\performance\\wpt\\debugging-problems-with-standby.md"
+  ],
+  "78eb1ccc2ce80a672fecf01f42962b2895a4573f": [
+    "docset\\performance\\wpt\\debugging-problems-with-standby-exercise-1.md"
+  ],
+  "f3555c785be9618ff239a3d17d0a5eee3ce87d6d": [
+    "docset\\performance\\wpt\\debugging-problems-with-standby-exercise-2.md"
+  ],
+  "d02675e312ab4a63a4e5f2c4afc7e0d86aad823b": [
+    "docset\\performance\\wpt\\debugging-problems-with-standby-exercise-3.md"
+  ],
+  "bd6d142477c5118254d8264fe092ed954479e7ab": [
+    "docset\\performance\\wpt\\debugging-problems-with-standby-exercise-4.md"
+  ],
+  "d8d379e6a1160b57af68de9263ab8d8ab764bcd0": [
+    "docset\\performance\\wpt\\deletepremergedtracefiles.md"
+  ],
+  "bf6fd65f614bc2e52015a291b9923c2210e91380": [
+    "docset\\performance\\wpt\\detail-level.md"
+  ],
+  "9074651089d9fda2edbf27127afbed3f180287f8": [
+    "docset\\performance\\wpt\\details-window.md"
+  ],
+  "1e9dddac39b5d3bf91d2b149b828c32c75fca1d7": [
+    "docset\\performance\\wpt\\diagnostic-console.md"
+  ],
+  "1c2b4aea935b97af0263b605ec39a7040ac93918": [
+    "docset\\performance\\wpt\\disablebootrecording.md"
+  ],
+  "ac9866834e9ffbc722125482b7e2915e6c285068": [
+    "docset\\performance\\wpt\\diskidlehistogram.md"
+  ],
+  "a4bdd9f6802e107cef103a2cbe1672f2ec167d11": [
+    "docset\\performance\\wpt\\diskio.md"
+  ],
+  "04d2af0d524977fbce132c1dea65811fa615fdf3": [
+    "docset\\performance\\wpt\\dpcisr.md"
+  ],
+  "639e738f8012c0463ca5f845584f7a725e5fc00e": [
+    "docset\\performance\\wpt\\drvdelay.md"
+  ],
+  "abdde63ac7a6f44b5c5d828e02a39c619b660af0": [
+    "docset\\performance\\wpt\\dumper.md"
+  ],
+  "b98d650f5f32b861f4ec4d6d2d1ddd27b4fb52fe": [
+    "docset\\performance\\wpt\\elements.md"
+  ],
+  "a77aede5c7e65e524110ed0551efd24b436a1531": [
+    "docset\\performance\\wpt\\enablebootrecording.md"
+  ],
+  "baa8ede728daef61ff99eee4c3f07fb7a93d21c8": [
+    "docset\\performance\\wpt\\enabling-heap-data-capture.md"
+  ],
+  "c595c84370aa7f2b63e11f7b00d826f771c87229": [
+    "docset\\performance\\wpt\\error-codes.md"
+  ],
+  "7f6748ca67cfec6a7b3e5c6bbd8fe357fa054e81": [
+    "docset\\performance\\wpt\\evaluating-spinlock-data.md"
+  ],
+  "abaedc37b0eec08f33e8ef76c21f052580117deb": [
+    "docset\\performance\\wpt\\eventcollector.md"
+  ],
+  "3946adbeac805243e1ba264d71bc2447b002a79f": [
+    "docset\\performance\\wpt\\eventcollectorid.md"
+  ],
+  "b240ec48019117690eacae92d7bbf0721e413973": [
+    "docset\\performance\\wpt\\eventprovider.md"
+  ],
+  "f215866b5e636065be8d82e78708ebb560e6eef2": [
+    "docset\\performance\\wpt\\eventproviderid.md"
+  ],
+  "d2e240907d27ab6429b7f6ff0658c4f64b8ab0cf": [
+    "docset\\performance\\wpt\\eventproviders.md"
+  ],
+  "0d732755bb08f9674158bd84fbb2b255dde44354": [
+    "docset\\performance\\wpt\\event-trace-flag-dispatcher.md"
+  ],
+  "587ff03bf840dccafcee576a53aa7a513e81854e": [
+    "docset\\performance\\wpt\\event-trace-flag-virtual-alloc.md"
+  ],
+  "6a5de4dfb32d36bbb3a90ee46dbbe4188988710a": [
+    "docset\\performance\\wpt\\event-trace-type-readythread.md"
+  ],
+  "5206a091dd45da24e92ccad7fcab2ba59f02632a": [
+    "docset\\performance\\wpt\\event-trace-type-virtual-alloc.md"
+  ],
+  "5a2402ce043f6095a7fa6801699dde746a5f6f92": [
+    "docset\\performance\\wpt\\event-trace-type-virtual-free.md"
+  ],
+  "4ce17f1821378e05a5e35a1af6485709f4b90cd0": [
+    "docset\\performance\\wpt\\event-tracing-for-windows.md"
+  ],
+  "7f8d59fa47f094557d93cd507efbb701906ec454": [
+    "docset\\performance\\wpt\\exporter.md"
+  ],
+  "4cf20b28912248f5583cd45b1c7498ab58fac806": [
+    "docset\\performance\\wpt\\filecompression.md"
+  ],
+  "8813f9203230e29dc746e86ffe763520e48f6194": [
+    "docset\\performance\\wpt\\filename-wpa.md"
+  ],
+  "9fc4ab0d7ffbab58268f93ebc0557600470e4493": [
+    "docset\\performance\\wpt\\focuschange.md"
+  ],
+  "1e1a37520ad3cf6c9b0658441d5dab9fa5a3f56d": [
+    "docset\\performance\\wpt\\frame-analysis.md"
+  ],
+  "47b2212f4040ca4bf4a8feb7ba330c06106e616b": [
+    "docset\\performance\\wpt\\functions-wpa.md"
+  ],
+  "dca9d5dfc756d5c309ffe4a169a1ea183b38e323": [
+    "docset\\performance\\wpt\\getcolumnnumber.md"
+  ],
+  "fed513ac7a60cdb94dab3633892ff407dbbdc476": [
+    "docset\\performance\\wpt\\getelementid.md"
+  ],
+  "ace708191e09137721d70f4b6d1c68a2b11cd666": [
+    "docset\\performance\\wpt\\getelementtype.md"
+  ],
+  "99f42846ff6a3902cef17f2a4a904cfe8fea5308": [
+    "docset\\performance\\wpt\\getfilename.md"
+  ],
+  "17c6af71ba23e7115106ed04df797ec1be7f6e4b": [
+    "docset\\performance\\wpt\\gethresult.md"
+  ],
+  "389ff5dff1867ef6b2c8c45a8a3a187c9dd59fa2": [
+    "docset\\performance\\wpt\\getinnererrorinfo.md"
+  ],
+  "4f56f513cb08f1f26216112749de5ea5f5db12e2": [
+    "docset\\performance\\wpt\\getlinenumber.md"
+  ],
+  "c6fe6c31ee52bef13d416fbc3ee8eb0a25518795": [
+    "docset\\performance\\wpt\\getngenpdbspath.md"
+  ],
+  "5c68864b09d8529601bb727525fa5467b4892295": [
+    "docset\\performance\\wpt\\getobjecttype.md"
+  ],
+  "e32495eb8b1ac1fc26d10fcb7182397f03e65999": [
+    "docset\\performance\\wpt\\getproviderguidfromname.md"
+  ],
+  "638e5b9478505c1f712a266401c70f79ee4b1faa": [
+    "docset\\performance\\wpt\\getprovidernamefromguid.md"
+  ],
+  "2e82c676d000a3ba3ca6169a915a96087ae1bb8a": [
+    "docset\\performance\\wpt\\gettext.md"
+  ],
+  "5a427df69e75ed0a09feb1d620b77544b879414b": [
+    "docset\\performance\\wpt\\getting-started--windows-performance-analyzer--wpa-.md"
+  ],
+  "e4ec05f82aced2d9156b922facafb2344174c54e": [
+    "docset\\performance\\wpt\\getting-started--windows-performance-recorder--wpr-.md"
+  ],
+  "471f3a5eff14ecd75ff7c41863a88968337d916d": [
+    "docset\\performance\\wpt\\graph-explorer.md"
+  ],
+  "cc56fb4849b197b9c53fdbdece2f6ab5ec237211": [
+    "docset\\performance\\wpt\\graphs.md"
+  ],
+  "6012604934a0c1ff12fc1c4567e9a247ea0d01d6": [
+    "docset\\performance\\wpt\\hardfault.md"
+  ],
+  "a05b9e440d35149c21214410f5f13c8b7402b6c9": [
+    "docset\\performance\\wpt\\heap.md"
+  ],
+  "bfa5bd5b57fe56784f23b6d1433b1e268baa3499": [
+    "docset\\performance\\wpt\\heapeventcollector.md"
+  ],
+  "6a4c16f419ea642b47d8666003925e6107ae6280": [
+    "docset\\performance\\wpt\\heapeventcollectorid.md"
+  ],
+  "0604bbe74d4bb58e9da0c7ae9e9d72690923120a": [
+    "docset\\performance\\wpt\\heapeventprovider.md"
+  ],
+  "c6cf5857c95f3d3fbf186c071ea8a451f8e01666": [
+    "docset\\performance\\wpt\\heapeventproviderid.md"
+  ],
+  "72cc0caa1c9d68856b0d22bbb30f258a9e6ac0c7": [
+    "docset\\performance\\wpt\\heapeventproviders.md"
+  ],
+  "a0c60be274b2a0ee99ddd6b122e167fa06d035e5": [
+    "docset\\performance\\wpt\\heapprocessid.md"
+  ],
+  "ec2a1fe68058a00a379cdc2f5231f28c7fd95c25": [
+    "docset\\performance\\wpt\\heapprocessids.md"
+  ],
+  "108aa6362087970636976371e35527beeb578c97": [
+    "docset\\performance\\wpt\\help.md"
+  ],
+  "d0de85ec2d2d2ec9f58a23efea364d7077547bad": [
+    "docset\\performance\\wpt\\highlight-a-time-interval-selection.md"
+  ],
+  "b257ddbca50dc786f1c080dcd54f9d6943e4c0d1": [
+    "docset\\performance\\wpt\\how-to-provide-feedback.md"
+  ],
+  "11469443f6eea5bdf6e04923fa315c0561902cb2": [
+    "docset\\performance\\wpt\\how-to-recover-a-profile.md"
+  ],
+  "f245fa3240da421c583133266f5622191a2a756a": [
+    "docset\\performance\\wpt\\how-to-save-a-preset.md"
+  ],
+  "e742f8416dd5a8cdbda65c429a3efb38e29e9aea": [
+    "docset\\performance\\wpt\\how-to-use-quick-search.md"
+  ],
+  "0c6b86af7ce95b256083129c4731795845290f05": [
+    "docset\\performance\\wpt\\how-to-use-the-rectangle-viewer.md"
+  ],
+  "f8f3bd8d181fc7da0ab07e71ede67978beaac7ca": [
+    "docset\\performance\\wpt\\icontrolerrorinfo.md"
+  ],
+  "daed89878caac248d4dfdbe7763d6eef48ea7150": [
+    "docset\\performance\\wpt\\icontrolmanager.md"
+  ],
+  "ae1f6e304a6d3480ed8464a64413cf5231ad3436": [
+    "docset\\performance\\wpt\\icontrolprogresshandler.md"
+  ],
+  "c3d7920ab28803a4842d35222045b79957bb1046": [
+    "docset\\performance\\wpt\\ienumcontrolwarninginfo.md"
+  ],
+  "b83348ca38af4b384b222c7e8e17f4189252ec59": [
+    "docset\\performance\\wpt\\ienumprofile.md"
+  ],
+  "e60f883ecb81285b160d4d51935a35fd21a3afb2": [
+    "docset\\performance\\wpt\\images\\acm-wpa-diff-1.png"
+  ],
+  "b332015480304b18c0bbf51afe0ce9c8266556a9": [
+    "docset\\performance\\wpt\\images\\acm-wpa-diff-2.png"
+  ],
+  "6b5dc490ccd0b514842021bcfe13a505bdd89a3d": [
+    "docset\\performance\\wpt\\images\\acm-wpa-diff-3.png"
+  ],
+  "ca3da5e43bb4d24b57050d1e70706e8425123bc4": [
+    "docset\\performance\\wpt\\images\\acm-wpa-diff-4.png"
+  ],
+  "7e8ebe30dc107c2f7a3bd83a4151527def438b7a": [
+    "docset\\performance\\wpt\\images\\acm-wpa-diff-5.png"
+  ],
+  "9099275233899b2ae079d96cbf6f22a7084ccf8c": [
+    "docset\\performance\\wpt\\images\\acm-wpa-store-app-analysis-thread-names.png"
+  ],
+  "fbc0a3b7f639a5f7b4b70baa8fb8c46fc5523743": [
+    "docset\\performance\\wpt\\images\\acm-wpt-regions-1.png"
+  ],
+  "1d906888702b9dfb3df03a2314468db491d452d8": [
+    "docset\\performance\\wpt\\images\\acm-wpt-regions-2.png"
+  ],
+  "c126771a0bb1ce3e3791877ec5b3415e7bc76974": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-10-cpu-usage-precise-diagram.jpg"
+  ],
+  "0bebc54e69fb5b5f155f8abccae087aeb5cb10ef": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-11-cpu-usage-precise-timeline-by-cpu.png"
+  ],
+  "496c6382fc6c86256ddf93b3b0f38466c7eed775": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-12-usage-precise-timeline-by-process-thread.png"
+  ],
+  "a9cc2acf60d10d2f181f100f3cc2be1aa345b234": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-13-cpu-usage-precise-usage-by-priority-at-context-switch-start.png"
+  ],
+  "f8868749a44d2258372bd2227bcecb6dcd644463": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-14-cpu-usage-precise-utilization-by-cpu.png"
+  ],
+  "325de6657f7d1fb2f10a931b46ca008e7ec4bfd6": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-15-cpu-usage-precise-utilization-by-process-thread.png"
+  ],
+  "ed0963d366d2a58a359d581ed9e12b06ca982538": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-16-dpc-isr-diagram.jpg"
+  ],
+  "bd2d2cfd7ae3dfcfe1ea6ac98069bdc44d228388": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-17-dpc-isr-duration-by-cpu.png"
+  ],
+  "e96035fe2ab288542ca236323f92c9abec570587": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-18-dpc-isr-duration-by-module-function.png"
+  ],
+  "74febc884db7ceb0ceef540d849c108b48c4d154": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-19-dpc-isr-timeline-by-module-function.png"
+  ],
+  "f5f23ecb49614553345989685590093fc1da6328": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-1-thread-state-transition.jpg"
+  ],
+  "05504bbcde2726f347f419214b651a3b4f7fa7ad": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-20-stacks-from-three-events.jpg"
+  ],
+  "81f38235c22db449dc1d2c82a65d03d1da4e8d8b": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-21-common-segments-identified.jpg"
+  ],
+  "a9a7fb2f4a4386dce7197fc34a9e4ca5ff88a21c": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-22-tree-built-from-stacks.jpg"
+  ],
+  "5a8effbffd911d8cadf67eba54d14efe64ba1857": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-23-activity-operations.jpg"
+  ],
+  "a5a3a504c6a14fd5d294853bad8e7277a4f61b6b": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-24-critical-path.jpg"
+  ],
+  "019e7f524632a77ee6f7e9094bc4aefa18ad84f3": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-25-activity-by-cpu-usage-ms.png"
+  ],
+  "3f576a46f4dddb9f5b73cef8b146e50907e30163": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-26-activity-by-ready-us.png"
+  ],
+  "a7a6aea5359ee4eaa59b1627a63967a99e19cfea": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-27-activity-by-waits-us.png"
+  ],
+  "ee4b3a326f34d60362212a87a64ecf31e7e3838a": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-28-readying-process-and-readying-thread-for-a-thread.png"
+  ],
+  "0c9fe655395e59a10b45ac6080b274ac70dd719a": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-29-readying-process-and-readying-thread-for-another-thread.png"
+  ],
+  "6eb3870da7265050770eb8060cfd678c7bd9460e": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-2-cpu-idle-states-state-by-type-cpu.png"
+  ],
+  "e2f027d199e9b8d5d1f68efe7557a65b52a1bbf0": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-30-readying-process-and-readying-thread-for-a-thread-in-runonce-exe.png"
+  ],
+  "714f9e23676e48e074965c7f15e60f7b43c941e9": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-31-threads-by-cpu-usage-ms.png"
+  ],
+  "baa689e71a0ac0feb7b19f95246c382c00ed8ed3": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-32-threads-by-ready-us.png"
+  ],
+  "902da1452364b7bffa7a94df621d565638335e1a": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-33-threads-by-waits-us.png"
+  ],
+  "14bbbb4e4b472992ffe13dbe0c13140c265d1dad": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-34-contributors-to-wait-time.png"
+  ],
+  "96065217623898cbbfdd8004c11e4d9ceb54ae34": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-35-ios-and-timer-on-newthreadstack.png"
+  ],
+  "3920920b491c7a520b90a183bab8d76214d4d86a": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-36-critical-path-timelinee.png"
+  ],
+  "bd02b4ef0fe485d29aaf7b51483dab8d5786551e": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-37-thread-3208.png"
+  ],
+  "a37b1f212be9e836596143becc9ee1026e264772": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-38-expanded-cpu-usage-segment.png"
+  ],
+  "e598e09bd5045db45189f36dc780f484478c169c": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-39-cpu-utilization-is-near-100.png"
+  ],
+  "13793fc710175005aa918fec601e20ad13a90fe8": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-3-cpu-idle-states-state-diagram-by-type-cpu.png"
+  ],
+  "6ce5ef4255c8196e28b27b724f2633850f5dceb6": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-40-thread-interference-problem.png"
+  ],
+  "7089180776e27153a8bdd8326c11a0f346523015": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-41-restricted-threads.png"
+  ],
+  "d30a648cf7f62408d5d18892e0db94c621d69594": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-42-ready-time-columns.png"
+  ],
+  "270a9738f88dabfa631ab252c21f9f6a1c1dafe1": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-43-ready-time-graph.png"
+  ],
+  "7810c4cba37c13ad84c6c1817799305b71cd6ee5": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-44-thread-filter.png"
+  ],
+  "82689e85824519dc6e735bbd5bdcface8a7f8f55": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-45-cpu-usage-ready-time-and-other-thread-activity.png"
+  ],
+  "195a9d6a449d6f1b89e1460a4bc8e944c4815fcd": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-46-usage-by-priority-when-target-thread-was-ready.png"
+  ],
+  "771dda496ff4c7ce5a3d9696f36c6b710f6e717d": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-47-problem-events-and-dpc-isr-activity.png"
+  ],
+  "ebe1fa73ac1bb1aeab110e9450def4ce422c4eb9": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-48-dpc-isr-unrelated-to-problem-events.png"
+  ],
+  "b950061b1881be4ff7b5a431a1b7ced5d47d50af": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-49-delay-caused-by-dpc-isr-interference.png"
+  ],
+  "ce457101fa26a06736be99cc28707124e28d66c9": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-4-cpu-frequency-by-cpu.png"
+  ],
+  "5197b745a1dd42f3bf3fbe527b3e4a9be5cd18be": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-50-expanded-dpc-stack.png"
+  ],
+  "0e6566a4b2667875925ad57ab446fb135627beff": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-51-callees-of-a-dpc-sorted-by-approximate-duration.png"
+  ],
+  "af24cf23cfbd8f7f831dc42c3f6eeb62a1bcacf2": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-5-cpu-sampling.jpg"
+  ],
+  "69cf1704185cdb47091e693c0c36be14ddb37e9a": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-6-cpu-usage-utilization-by-cpu.png"
+  ],
+  "dd04b75790bc10594eb211ed7883a72b0ae258a1": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-7-cpu-usage-sampled-utilization-by-priority.png"
+  ],
+  "b7faa10e62afbe0d31a00f523563fe1103d25490": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-8-cpu-usage-sampled-utilization-by-process.png"
+  ],
+  "2e56ca5bd5ef293b5ca4cc0435dc8715cd7f0ea8": [
+    "docset\\performance\\wpt\\images\\dep-win8-cpu-techniques-figure-9-cpu-usage-sampled-utilization-by-process-and-thread.png"
+  ],
+  "534780c129845cfee2399167a5b8f8ce4fe38c56": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab1.png"
+  ],
+  "20729bdba4fa17b7ce23eec1f48a5efcc7d9a304": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab10.png"
+  ],
+  "96c0cc27b4de10674fe42608f532cbd17198836b": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab11.png"
+  ],
+  "b64c28b7c3d34b044e52fa8e9c834c3159ec7ff3": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab12.png"
+  ],
+  "e8c9e05f4b275557dab702263870c67798f6369a": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab13.png",
+    "docset\\performance\\wpt\\images\\memoryfootprintlab19.png"
+  ],
+  "21d7fca50ab0b912d3df52b6e6ac61f9dbe62257": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab14.png"
+  ],
+  "a87365dbbcfb62ed38faa956509e24d3dfb38784": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab15.png"
+  ],
+  "d7ef59ea8c0e09b11c3633648a6a159cdda9a314": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab16.png"
+  ],
+  "8f7e831c28b2713311c331916e5c14ab595edf81": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab17.png"
+  ],
+  "724cd48dce27d607b2295c83ed0c255fa3ef19aa": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab18.png"
+  ],
+  "91e13ca315f5861e558abcc892f5332bdb2b822a": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab2.png"
+  ],
+  "a5bbd173a9d4e4c71dfa3c3bb6cedea58e24c6ec": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab20.png"
+  ],
+  "4134f732c3b0ae223adb1c76b54f52e7aea25c5d": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab21.png"
+  ],
+  "87953bc5857b556d85b923f1fe7f915f78a1a312": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab22.png"
+  ],
+  "29819b0e3383e351318452eabb50917f608bc7d8": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab23.png"
+  ],
+  "af7f96207e5b759ab2e0d33652c3a77c4c23cb2e": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab24.png"
+  ],
+  "1ac3ad0adfd83efb77155b753fd126ac21e63a1c": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab25.png"
+  ],
+  "6a633b348a71c1c967a7d853c23a8d6e1234686a": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab26.png"
+  ],
+  "6bd063c7bc5537a50757052fb2a9c1773fb929da": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab27.png"
+  ],
+  "89308526a8b27966b28a07feb8b69d318b0670cc": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab28.png"
+  ],
+  "8a6e1b79414fcf960e1b3ece17ff276213170ac5": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab29.png"
+  ],
+  "2ba5318b555ffe4df458a2047b5d60fb4fbe4942": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab3.png"
+  ],
+  "a387375c27cd7155d11030ade13f12900f50f116": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab30.png"
+  ],
+  "f4b12b349d446f72636cd813e77a25fb11715ea5": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab31.png"
+  ],
+  "315d02a79d9e9bd60a6f88330542ce86950335ba": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab32.png"
+  ],
+  "06e23d1db271dbbd45d598573c0aeead95c6f988": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab4.png"
+  ],
+  "28e2ee661959692e3c9aa8bf8cdd154d7ea69978": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab5.png"
+  ],
+  "222a2ce486c60cb2036e66d0e25bcfb63685226e": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab7.png"
+  ],
+  "87a449dfe98d84d88e8f5ce223c74d457f92c813": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab8.png"
+  ],
+  "0b277a98bbcbbed50678425571991915dc2d4bd2": [
+    "docset\\performance\\wpt\\images\\memoryfootprintlab9.png"
+  ],
+  "597ebdbb969273cc28184d22452e667394fb4481": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab1.png"
+  ],
+  "f1481c70ffaa87e6b8a67de32d5314198296a7ff": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab10.png"
+  ],
+  "3f075ba22068e086ddfc0dd0827bc4699b43bf52": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab11.png"
+  ],
+  "5c475f08e9e1091cc197555d3387b73e9408aa1d": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab12.png"
+  ],
+  "df17dd2ca54a67a9e9905e9e652926e447d871ca": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab13.png"
+  ],
+  "a482eaae314280fb75d62a3903bb89ab3383ad3c": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab14.png"
+  ],
+  "3088ab6e6d6971142a093cb25d1aef51f6b69c45": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab15.png"
+  ],
+  "aca1502c4be0845f57034448199edd50169b9345": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab16.png"
+  ],
+  "cc6707823bb50d340452cbde2e436effd1ab06f3": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab17.png"
+  ],
+  "7780023ec1ec9bde3d68a164b2432ee93fb02db5": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab18.png"
+  ],
+  "b07d71125aff5acd0a11b6407019bf14f91d4b38": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab19.png"
+  ],
+  "943a23824af6a202978cbf62cbb77b38ee2391a1": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab2.png"
+  ],
+  "d1e9ef23f04588f0eed807fe7976ee5704ddb6df": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab20.png"
+  ],
+  "75efb84cb6c550ca740040eee9a46a63f0bf0bad": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab21.png"
+  ],
+  "80aea8109b0c1aab34230c0de345c96d4fe1cb6e": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab22.png"
+  ],
+  "6d4798f2d51019934aa57c4c9f2be9ab1ce1423c": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab23.png"
+  ],
+  "f2333c1be69b457f2adcf24ac24d550dcbb7133b": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab24.png"
+  ],
+  "2d9f56ba5015e65a5f83364892f5dda48cc11fa7": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab25.png"
+  ],
+  "c61641bbde0ee83a7accb8c17f2cf8244fc3eb07": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab26.png"
+  ],
+  "4e3afb833c8e71b5291072d777361bb926ab3f80": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab27.png"
+  ],
+  "a3012d36f0e5ca5b5fcd86a8b1d4552c3feb799c": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab28.png"
+  ],
+  "dc255378e373a58bb7ed714b4eb52e77e13f128a": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab29.png"
+  ],
+  "9f671ee03671777bc7ca48b06230a8e3a9351ff1": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab3.png"
+  ],
+  "dee0aa01f1dc3a99806f5ff343c27a0229401ee6": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab30.png"
+  ],
+  "dcb1527830302d85fa6cf1cbdfbdacbf4e5f8683": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab31.png"
+  ],
+  "c7ac81704cd919259ec8bf63cb2f8f8630f4c5db": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab32.png"
+  ],
+  "6c1fc75999cbb692214c2e197b26afc7880e5dbc": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab33.png"
+  ],
+  "f053765e8a2f816f5d842b80b5989f618558914b": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab34.png"
+  ],
+  "6ff143e1754a95f9eca227c28435869fe89809c4": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab35.png"
+  ],
+  "4613a0c7c684e5aa70c883ad1f2547d16191a80f": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab36.png"
+  ],
+  "ebd205ab8d971e54a24174ecc3401e566450fe5a": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab4.png"
+  ],
+  "9e07f4da921d9d5cb19bad720129adda367e5c8a": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab5.png"
+  ],
+  "e57b5d52b7da9f3cb6434c5bb8cf2763f1807a70": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab6.png"
+  ],
+  "a02b02c4e1a5c3151d6484f609b1b44dfb33e451": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab7.png"
+  ],
+  "df0fde570268375f5a74528ef4f6e4b5bde6ecfa": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab8.png"
+  ],
+  "8b76a7afee9387dc63d8b2ea4005f38e18cf4a57": [
+    "docset\\performance\\wpt\\images\\optimizingperformancelab9.png"
+  ],
+  "acbbcf266cf31b7b4c4df7cbb7a677e7eed4eee2": [
+    "docset\\performance\\wpt\\images\\optimizingwindowsdeviceslab1.png"
+  ],
+  "23aefe76d7c19d21142905407900ccce124a68e1": [
+    "docset\\performance\\wpt\\images\\optimizingwindowsdeviceslab2.png"
+  ],
+  "cc08667ddaaed6126fea9931b83e9e96303706cc": [
+    "docset\\performance\\wpt\\images\\optimizingwindowsdeviceslab3.png"
+  ],
+  "5bc227dfef5d59d3a95ec9277299d9f054ad8bc6": [
+    "docset\\performance\\wpt\\images\\optimizingwindowsdeviceslab4.png"
+  ],
+  "f2799acc7a42871d608b09926c3c8426fb8f99c8": [
+    "docset\\performance\\wpt\\images\\optimizingwindowsdeviceslab5.png"
+  ],
+  "812d54aac82bfe2a147d7a807fd635295d2c1a79": [
+    "docset\\performance\\wpt\\images\\optimizingwindowsdeviceslab6.png"
+  ],
+  "3c549d7f227bc1c5e0cde7564cdcb48354acff85": [
+    "docset\\performance\\wpt\\images\\processlifetime.jpg"
+  ],
+  "a1419e79ac03eb470f5396a2dc2b52ef3e0eaf6c": [
+    "docset\\performance\\wpt\\images\\rectangle-viewer.png"
+  ],
+  "7382ed4b0d08e7becf3a26429b7581bb46136b78": [
+    "docset\\performance\\wpt\\images\\rectangle-viewer-gold-indicator.png"
+  ],
+  "2547c5de0c3ff89728956f51c663d07effffc0fa": [
+    "docset\\performance\\wpt\\images\\standbylab1.png"
+  ],
+  "c4cf96aa56fe514b8259fe9eaef7fc4c2e505b80": [
+    "docset\\performance\\wpt\\images\\standbylab10.png"
+  ],
+  "4686510ee87d7bb2586136bad5c7d8e2ec5e3385": [
+    "docset\\performance\\wpt\\images\\standbylab11.png"
+  ],
+  "b3116bc90afb2b572851dfc1a322acb66fc91069": [
+    "docset\\performance\\wpt\\images\\standbylab12.png"
+  ],
+  "be48947362f02050ab9bfe4008157880f12632ef": [
+    "docset\\performance\\wpt\\images\\standbylab13.png"
+  ],
+  "12ebd2915ea7524d966af254db5ec268bbfe3fa3": [
+    "docset\\performance\\wpt\\images\\standbylab14.png"
+  ],
+  "e5477454a4040cb7ceffc38ccc39c953460d8c14": [
+    "docset\\performance\\wpt\\images\\standbylab15.png"
+  ],
+  "63e213f7e8f674ff096c7c0e64669b362c66e743": [
+    "docset\\performance\\wpt\\images\\standbylab16.png"
+  ],
+  "1793e1fd48c39e1d048cbcb2b3189d772f236634": [
+    "docset\\performance\\wpt\\images\\standbylab2.png"
+  ],
+  "1ae87a351f5523576c05a8e97255019e068dd6ab": [
+    "docset\\performance\\wpt\\images\\standbylab3.png"
+  ],
+  "5bae8408bca989052c89d88639fa404cdf3ae59a": [
+    "docset\\performance\\wpt\\images\\standbylab4.png"
+  ],
+  "00e463b7a81e44cda44318cb74275ada7fd8abbb": [
+    "docset\\performance\\wpt\\images\\standbylab5.png"
+  ],
+  "4663ca7b08d8df9bb62f67404b75cc565061f3f4": [
+    "docset\\performance\\wpt\\images\\standbylab6.png"
+  ],
+  "d14ff3478a495db312fead69ad015f70fec9b0fc": [
+    "docset\\performance\\wpt\\images\\standbylab7.png"
+  ],
+  "fd15c300aa08986cf9a0096497bec4ab8010b4b6": [
+    "docset\\performance\\wpt\\images\\standbylab8.png"
+  ],
+  "de8b44df7b1b0e5e71d6500e6f9883d388853653": [
+    "docset\\performance\\wpt\\images\\standbylab9.png"
+  ],
+  "0e8f5b8bf537481888eb10075e762e1864b7561a": [
+    "docset\\performance\\wpt\\images\\wpaanalysistab.jpg"
+  ],
+  "6e0f63dda3d03cfdf7172434ccf547c4eac8ffea": [
+    "docset\\performance\\wpt\\images\\wpagenericevents.jpg"
+  ],
+  "3c6863c32364c9eb2f5592159ff18fe76cd9fc69": [
+    "docset\\performance\\wpt\\images\\wpaio.jpg"
+  ],
+  "a404342a0fe064e7a121f33c10e4697521074501": [
+    "docset\\performance\\wpt\\images\\wpalayout.jpg"
+  ],
+  "a36aeef37c87c41f3c60bb972d2b7ea75b26e906": [
+    "docset\\performance\\wpt\\images\\wpaline.jpg"
+  ],
+  "b8bc8161697e528713d87dff8f925069f3f93d0f": [
+    "docset\\performance\\wpt\\images\\wpasearch.jpg"
+  ],
+  "453aeaeaf5da6d424494b13bd45bf9fb1a3d7e7d": [
+    "docset\\performance\\wpt\\images\\wpastackedbar.jpg"
+  ],
+  "cf737a06ac539c22e299f63ed49e3ccd47291a4b": [
+    "docset\\performance\\wpt\\images\\wpastackedline.jpg"
+  ],
+  "9bb9686386662c1f7705a93a06b4fb070a523080": [
+    "docset\\performance\\wpt\\images\\wpatable.jpg"
+  ],
+  "ff1a3e8aea6c96447df77639a5de4987b764abba": [
+    "docset\\performance\\wpt\\images\\wpr-collector-definitions-example1.jpg"
+  ],
+  "f6cdde83bd7c4af0de0bdda307a284ce666f7986": [
+    "docset\\performance\\wpt\\images\\wpr-collector-definitions-example2.jpg"
+  ],
+  "5840ef3881f3ee077aea2e7fc91e319eabd5d608": [
+    "docset\\performance\\wpt\\images\\wpr-collector-definitions-example3.jpg"
+  ],
+  "f845aa386811d2c7d3cc0401719b9201732045b8": [
+    "docset\\performance\\wpt\\index.md"
+  ],
+  "ba8a648a256e5ab8ab9f4d4cedd85473a4e43a26": [
+    "docset\\performance\\wpt\\inheritance.md"
+  ],
+  "a9e3c3ed2715ef234928556748ce3d1e70b6d451": [
+    "docset\\performance\\wpt\\interfaces-wprcontrol.md"
+  ],
+  "78fd65a4a70ca971e41950dbe65d03d955cf92a5": [
+    "docset\\performance\\wpt\\introduction-to-the-wpa-user-interface.md"
+  ],
+  "a036ec868f261064353add38c69e2a746724b9d9": [
+    "docset\\performance\\wpt\\introduction-to-wpr.md"
+  ],
+  "01a583a4484f48d9a6c37293b2f4c55e0fd0cdb6": [
+    "docset\\performance\\wpt\\ionofftransitionmanager.md"
+  ],
+  "1ea09ee29e15f81ffdcfcf8b872276b0fbc9d447": [
+    "docset\\performance\\wpt\\iparsingerrorinfo.md"
+  ],
+  "7eb51ad4ae6a1c134cbeb345979e4b9e0c42e6e2": [
+    "docset\\performance\\wpt\\iprofile.md"
+  ],
+  "f6ae9004503616d185a0491b97102aba045cda3e": [
+    "docset\\performance\\wpt\\iprofilecollection.md"
+  ],
+  "c4a2e9068200ad2140450a0889f6a45fa9e77577": [
+    "docset\\performance\\wpt\\isequal.md"
+  ],
+  "a15a7d5560db6ce779e6679cd2080c0712aaf8fd": [
+    "docset\\performance\\wpt\\isequal-iprofilecollection.md"
+  ],
+  "d0d5fc4fdcc5ba433614a895ae5eccc65fc75afa": [
+    "docset\\performance\\wpt\\isequal-itracemergeproperties.md"
+  ],
+  "495dbe97daf61720567017f5f952d0e284541dcc": [
+    "docset\\performance\\wpt\\issues-window.md"
+  ],
+  "f17468c0cd41b20eacffddd69a4ba5eff9768980": [
+    "docset\\performance\\wpt\\itracemergeproperties.md"
+  ],
+  "0d8a96f921311704ef8ecabb6a0d679ffab40a0a": [
+    "docset\\performance\\wpt\\itracemergetexthandler.md"
+  ],
+  "041c40444de357c8ea21386863ef714ce843fcdc": [
+    "docset\\performance\\wpt\\kernel-trace-control-api-reference.md"
+  ],
+  "1178087e839e66b6ad9947d86595f5a166f9edc6": [
+    "docset\\performance\\wpt\\keyword--in-eventprovider-.md"
+  ],
+  "af47334b0b0ea6b94588f99d5e17377d7f2f6d1a": [
+    "docset\\performance\\wpt\\keyword--in-systemprovider-.md"
+  ],
+  "ce2ea5f71d4c253347e428c7511d5b32f31eca90": [
+    "docset\\performance\\wpt\\keywords--in-eventprovider-.md"
+  ],
+  "4d01fb46a918fb0402f202c3291a778e69649ed2": [
+    "docset\\performance\\wpt\\keywords--in-systemprovider-.md"
+  ],
+  "8d6ff384af8701cc5e28cf4a24083ddf28b264b8": [
+    "docset\\performance\\wpt\\list-of-wpa-graphs.md"
+  ],
+  "c972852e6ada6823e5c61c509418baef57eefaff": [
+    "docset\\performance\\wpt\\loadfromfile.md"
+  ],
+  "e082b1c77a8f22563d1890d74cfda18a7c5e8c49": [
+    "docset\\performance\\wpt\\loadfromfile-itracemergeproperties.md"
+  ],
+  "c3fb6774a55d505e1f95599de58b9312c7c5edef": [
+    "docset\\performance\\wpt\\loadfromstring.md"
+  ],
+  "b2ba3e8270eaf10f913b781ca49d113e17f695af": [
+    "docset\\performance\\wpt\\loadfromstring-itracemergeproperties.md"
+  ],
+  "09f822c11f3c3d6288f46923d1278bdef163aa48": [
+    "docset\\performance\\wpt\\loading-symbols.md"
+  ],
+  "0eebefb6701411fd174c18ada852bf9d77891457": [
+    "docset\\performance\\wpt\\loadintoxml.md"
+  ],
+  "a2b1fe1dbde9b9680b4cd8482e8174ba1eed647b": [
+    "docset\\performance\\wpt\\load-symbols-or-configure-symbol-paths.md"
+  ],
+  "924c2e1e6c13a3681818dd65a0a7767dc12d77cd": [
+    "docset\\performance\\wpt\\logging-mode.md"
+  ],
+  "3bdae46c1817292f90e34deccbcbe497e4af9aa4": [
+    "docset\\performance\\wpt\\mark.md"
+  ],
+  "926293d86d23f1f405f0067950d628d78ea5ad5e": [
+    "docset\\performance\\wpt\\marks.md"
+  ],
+  "78b64ec496fdb9a31957ef07debc6db38df485cc": [
+    "docset\\performance\\wpt\\memory-footprint-optimization.md"
+  ],
+  "4cbb145b9ca635e629f64ed7af94720ffb242384": [
+    "docset\\performance\\wpt\\memory-footprint-optimization-exercise-1.md"
+  ],
+  "a64132710ec9911abac39523efd30601c90f71d5": [
+    "docset\\performance\\wpt\\memory-footprint-optimization-exercise-2.md"
+  ],
+  "15ed011f94d9267b047d8d55a4169112d76a95ad": [
+    "docset\\performance\\wpt\\memory-footprint-optimization-exercise-3.md"
+  ],
+  "ce8344bdf3e89e36693f4ff8c6243dec2ea95e24": [
+    "docset\\performance\\wpt\\merge.md"
+  ],
+  "30c4a8bf4a9e33854e4dd46702a6c885d165e34c": [
+    "docset\\performance\\wpt\\mergeshutdownrecording.md"
+  ],
+  "bb59823e101149242d4844ec206201e957cc76ea": [
+    "docset\\performance\\wpt\\next.md"
+  ],
+  "1cedcdfcded72194bb1cd5dfae221f9ea7d481d8": [
+    "docset\\performance\\wpt\\next-ienumprofile.md"
+  ],
+  "0681c18a374517a43daa7706b656bdac63884767": [
+    "docset\\performance\\wpt\\numberofruns.md"
+  ],
+  "8d3e867d908743efa91b6b26e77310c9a1253f81": [
+    "docset\\performance\\wpt\\onbegin.md"
+  ],
+  "731b0c3f2ccdadb2676b3956f84fb02b82df0ba1": [
+    "docset\\performance\\wpt\\onend.md"
+  ],
+  "c1d2f3e42503f8fcdc105e6b34f9bfb00810d3af": [
+    "docset\\performance\\wpt\\onofftransitionconfiguration.md"
+  ],
+  "ec245249c0c63956dea8f3668598edc0aec4adba": [
+    "docset\\performance\\wpt\\onofftransitionconfigurations.md"
+  ],
+  "1f3fb77853c999d48a866ca83077346cd3c6bbf7": [
+    "docset\\performance\\wpt\\onupdate.md"
+  ],
+  "dcd984a852d608b247b45cb57516d0a83b3e362a": [
+    "docset\\performance\\wpt\\open-a-recording.md"
+  ],
+  "c176327add7811413c69e02a11008a13939a2d9f": [
+    "docset\\performance\\wpt\\opening-and-analyzing-etl-files-in-wpa.md"
+  ],
+  "cc66d9945c768d7e219574bf5d0999aba81d735b": [
+    "docset\\performance\\wpt\\opening-wpa-from-an-assessment.md"
+  ],
+  "dbcfccc414b5b93434ade24706e8d504da08b27f": [
+    "docset\\performance\\wpt\\optimizing-performance-and-responsiveness.md"
+  ],
+  "2506c4fced197a536abe80dde94cbb00dcb8e222": [
+    "docset\\performance\\wpt\\optimizing-performance-and-responsiveness-exercise-1.md"
+  ],
+  "eec3b2f5057c2a4617f2bba9cfb8a9c848a00a89": [
+    "docset\\performance\\wpt\\optimizing-performance-and-responsiveness-exercise-2.md"
+  ],
+  "296e2344c657d6b32639bbc3fdbfc3e5feec40b1": [
+    "docset\\performance\\wpt\\optimizing-performance-and-responsiveness-exercise-3.md"
+  ],
+  "0ee23efbb738183d7ed95da7177a76792326174d": [
+    "docset\\performance\\wpt\\optimizing-windows-devices-for-multimedia-experiences.md"
+  ],
+  "1a279ef67b3667bbf54a0f413a748af7c3b305d1": [
+    "docset\\performance\\wpt\\optimizing-windows-devices-for-multimedia-experiences-exercise-1.md"
+  ],
+  "a9161c2c3cc7ceedf4e66dca896d08cac01114c7": [
+    "docset\\performance\\wpt\\optimizing-windows-devices-for-multimedia-experiences-exercise-2.md"
+  ],
+  "8a99f7f5309646acde797554803867fb8339ecc9": [
+    "docset\\performance\\wpt\\optimizing-windows-devices-for-multimedia-experiences-exercise-3.md"
+  ],
+  "59cae08b587f2763ae4618beb4c63bc63ffa25ed": [
+    "docset\\performance\\wpt\\optimizing-windows-devices-for-multimedia-experiences-exercise-4.md"
+  ],
+  "6c1fbe5f3e08ae52811611ef217f9ef2adde4d54": [
+    "docset\\performance\\wpt\\packaging-and-sharing-wpa-packages.md"
+  ],
+  "ebb1f41d897d43dd12942811f96fcafddedef8c1": [
+    "docset\\performance\\wpt\\pagefault.md"
+  ],
+  "258821a1c5541a96f7e406d85ae6e8619354206c": [
+    "docset\\performance\\wpt\\perfctrs.md"
+  ],
+  "e1ed819128541c4fd2e584d2f1c2adf5cfc602ab": [
+    "docset\\performance\\wpt\\performance-scenarios.md"
+  ],
+  "f9dd3dd36c2a291a1c272ec03311d58ff5b98cb9": [
+    "docset\\performance\\wpt\\pnp.md"
+  ],
+  "c0f81d14f943877fadea01cf1aef9714568584bb": [
+    "docset\\performance\\wpt\\pooltag.md"
+  ],
+  "78a4b98541f099dcf18707f89904d304a0015eb1": [
+    "docset\\performance\\wpt\\pooltags.md"
+  ],
+  "b0dce2f7bae321f154d3494da74dd698a6865ec1": [
+    "docset\\performance\\wpt\\postbootdelay.md"
+  ],
+  "3485c2fc4a5346c1719de722a95a1f0ae1d4ecd5": [
+    "docset\\performance\\wpt\\prefetch.md"
+  ],
+  "ea29df64080c17398c7822c7d53443b1e228a489": [
+    "docset\\performance\\wpt\\preparesystem.md"
+  ],
+  "c93beab05d23400770823dbdce59375fc08b2153": [
+    "docset\\performance\\wpt\\problemcategories.md"
+  ],
+  "8a5810615cb4b49d84f055eca3669c0c81966a9c": [
+    "docset\\performance\\wpt\\problemcategory.md"
+  ],
+  "8942464c1e155fd8eb3d5268d104b16f616943fe": [
+    "docset\\performance\\wpt\\process.md"
+  ],
+  "37c87524400d3fd6bb35d2fc42beca0e8447ab4a": [
+    "docset\\performance\\wpt\\processing.md"
+  ],
+  "0b19a2cad611cf017e4074d10175ebfcc76938dc": [
+    "docset\\performance\\wpt\\profiles.md"
+  ],
+  "59a93971e43eda411e5fe3d50334d262b18cddce": [
+    "docset\\performance\\wpt\\profile-wpr.md"
+  ],
+  "d6868bce9ffecb9c88daa0f703e3c594e1868d23": [
+    "docset\\performance\\wpt\\profile-wta.md"
+  ],
+  "ea05c895d9f98ebb645b270f91ff114ab199c3a2": [
+    "docset\\performance\\wpt\\providers.md"
+  ],
+  "f18ba050974d66fae10668b4774add5e6b774a7b": [
+    "docset\\performance\\wpt\\providers-wpa.md"
+  ],
+  "699c4f479d7c12e4e1f4dcfe0bea915476c2efa7": [
+    "docset\\performance\\wpt\\query-icontrolmanager.md"
+  ],
+  "ead47e3cd67016c8acd28bd95bbc4ce1fb6c56ac": [
+    "docset\\performance\\wpt\\querying-providers.md"
+  ],
+  "fc1ca40f1db9f700524ec006b508576979d03dbd": [
+    "docset\\performance\\wpt\\queryxml.md"
+  ],
+  "5c7b89acb4fb11b1395edab812d3e99983e36570": [
+    "docset\\performance\\wpt\\recording-for-basic-system-diagnosis.md"
+  ],
+  "aa86e44d1a223be62c2727c1313e7a6ce873e076": [
+    "docset\\performance\\wpt\\recording-for-heap-analysis.md"
+  ],
+  "1027880758025912bda34177e51951dad5f1eb24": [
+    "docset\\performance\\wpt\\recording-for-resource-based-analysis.md"
+  ],
+  "ba51fac7a06f28ea3472fe4ae286dd5daa3983c9": [
+    "docset\\performance\\wpt\\recording-onoff-transitions.md"
+  ],
+  "79cf45c0e7fb659c8984bb0e1c98d8c137754c5f": [
+    "docset\\performance\\wpt\\recording-profiles.md"
+  ],
+  "c87cf0c1b9853128213b36d2e3317d773f377768": [
+    "docset\\performance\\wpt\\recording-profile-xml-reference.md"
+  ],
+  "ff52bcd30ad58fb3fb124bb1ceeafc74d26dd49b": [
+    "docset\\performance\\wpt\\recording-with-custom-profiles.md"
+  ],
+  "8349f12f7f6c6245ff3f59cada5d5031646c3622": [
+    "docset\\performance\\wpt\\regions-of-interest.md"
+  ],
+  "b6c91caf1df3da2ccf0e215f2b2599f37cabfad4": [
+    "docset\\performance\\wpt\\registry.md"
+  ],
+  "3de07dd262ce431af5d160c0161b05159d6d070b": [
+    "docset\\performance\\wpt\\remove.md"
+  ],
+  "58af39aad24ab26b153776b4069892a7d8354aa9": [
+    "docset\\performance\\wpt\\reset.md"
+  ],
+  "e1e5d620e965d5a2ba4655e549551fabc48efcff": [
+    "docset\\performance\\wpt\\reset-ienumprofile.md"
+  ],
+  "d641b70972f0ade86dd7e8740a756644ee44016e": [
+    "docset\\performance\\wpt\\save-icontrolmanager.md"
+  ],
+  "0bb1bbd81283b629227df939797ea5ebfdb37d25": [
+    "docset\\performance\\wpt\\save-state-at-the-end-of-a-wpa-session.md"
+  ],
+  "063397f8f9e64c7cf9f158309eb96ce5a8c70222": [
+    "docset\\performance\\wpt\\search-or-filter-data.md"
+  ],
+  "40bfce579a7854b19535b977148b6e56d778533a": [
+    "docset\\performance\\wpt\\services.md"
+  ],
+  "e8cbf37ae5cdf947c8b0119634a873dd44d23fa7": [
+    "docset\\performance\\wpt\\sessions.md"
+  ],
+  "a18adecb23ccc144400ba09c88d7d1476977b778": [
+    "docset\\performance\\wpt\\sharing-and-collaboration.md"
+  ],
+  "64b8baf38131320206305c6cc228854737f74b98": [
+    "docset\\performance\\wpt\\shutdown.md"
+  ],
+  "967e4d595d798a2a064416ea0d99ef5f714a8df0": [
+    "docset\\performance\\wpt\\skip.md"
+  ],
+  "2587c1b50413392962d311e21a9cdcf16b6555af": [
+    "docset\\performance\\wpt\\skip-ienumprofile.md"
+  ],
+  "03e7dc4a928de92e36190f56392b075896a3a1ff": [
+    "docset\\performance\\wpt\\spinlock.md"
+  ],
+  "27112d584f56d446d8c48853309e2e42dc5faa32": [
+    "docset\\performance\\wpt\\stack.md"
+  ],
+  "7e61666f8094bc6b884a3a8ef57e9c6d0ce6c451": [
+    "docset\\performance\\wpt\\stackcaching.md"
+  ],
+  "df89cf805a90cdfac9cdc4923485441c5cccacda": [
+    "docset\\performance\\wpt\\stacks.md"
+  ],
+  "abd8243b8146439d98282e94c507a887f006f8ec": [
+    "docset\\performance\\wpt\\stack-tags.md"
+  ],
+  "32be077d574dd4467bb6cee19fcc6082be0deb04": [
+    "docset\\performance\\wpt\\stack-tracing-event-id.md"
+  ],
+  "43dc1898d02f0386fdf53d968d8cf1eeb3f01baf": [
+    "docset\\performance\\wpt\\stackwalk.md"
+  ],
+  "7446ced8876a0ec8051c9da9795dde41a1a45bcd": [
+    "docset\\performance\\wpt\\stack-wpa.md"
+  ],
+  "302f8daa72324855e4a9637564fb29246c5d3ee6": [
+    "docset\\performance\\wpt\\start.md"
+  ],
+  "ed24ad2ba6e61eabd26aa98556e1adb0cafb17bd": [
+    "docset\\performance\\wpt\\start-a-recording.md"
+  ],
+  "312aa97700b715a9ffe2958c7b09e2207cf821dc": [
+    "docset\\performance\\wpt\\startheaptrace.md"
+  ],
+  "7985901f1bb8a799fa8f0c2775647cd169a7d781": [
+    "docset\\performance\\wpt\\start-icontrolmanager.md"
+  ],
+  "e081dc20b43f51d855b6eac089c9c197d96dc1a8": [
+    "docset\\performance\\wpt\\startkerneltrace.md"
+  ],
+  "bc1308c4ea869b7b9c814542e5c5ad2cc9f712e6": [
+    "docset\\performance\\wpt\\startshutdownrecording.md"
+  ],
+  "0d49e1bbcf6bc991db4bc3fd861d3466b1a57b41": [
+    "docset\\performance\\wpt\\step-1--starting-and-stopping-a-recording-using-wpr.md"
+  ],
+  "52221f7cc558f127bf93cd8d24df72038a52ece1": [
+    "docset\\performance\\wpt\\stop.md"
+  ],
+  "2a0bcc901c30943eaadd240acf25842af509952c": [
+    "docset\\performance\\wpt\\stop-a-recording.md"
+  ],
+  "294a061394ff1c520db5909f7e066eb14d7179c5": [
+    "docset\\performance\\wpt\\stop-icontrolmanager.md"
+  ],
+  "d89d9b1fbb4eaa8aaf964a749f555d9a592619e0": [
+    "docset\\performance\\wpt\\strict-providers.md"
+  ],
+  "76a9e5550b4ddf399def8e62b24a23a2088f1bdf": [
+    "docset\\performance\\wpt\\structures-wpa.md"
+  ],
+  "0f4594dbb897b5b7e6d675fa92fea5e5f8cabcac": [
+    "docset\\performance\\wpt\\suspend.md"
+  ],
+  "b3b634b973fc7116b6a3953b3142b42082c0f574": [
+    "docset\\performance\\wpt\\symbols.md"
+  ],
+  "9a09737b4e1339460a7fd62420fd8e9dba0780f6": [
+    "docset\\performance\\wpt\\symbol-support.md"
+  ],
+  "25aeff393bd27adf6d873ec8df5867bcf66308a0": [
+    "docset\\performance\\wpt\\sysconfig.md"
+  ],
+  "f0c580e67eec7dd12e2575019e522f8d00d27c39": [
+    "docset\\performance\\wpt\\systemcollector.md"
+  ],
+  "1c243d82e6b93448014e503648670a41c9d6109d": [
+    "docset\\performance\\wpt\\systemcollectorid.md"
+  ],
+  "a98b39563327150cc318589acf87edc443f9abda": [
+    "docset\\performance\\wpt\\systemprovider.md"
+  ],
+  "aa7ed1302f93fb7322d91acf4e2f37353a7dbfbd": [
+    "docset\\performance\\wpt\\systemproviderid.md"
+  ],
+  "9fce9dcb1ec9bb33eabda27001f5ec475a843f0d": [
+    "docset\\performance\\wpt\\time-and-timestamp-formats.md"
+  ],
+  "f15baf8599ff2613739fd8c79065c688a5aabac4": [
+    "docset\\performance\\wpt\\trace-control-event-types.md"
+  ],
+  "95d70ebbcc151455ae9592f5cab498df045783f9": [
+    "docset\\performance\\wpt\\trace-control-flags.md"
+  ],
+  "ed9d1009fb74749646fed067047460b24f34e9d4": [
+    "docset\\performance\\wpt\\tracemergeproperties.md"
+  ],
+  "f2e4d031ec1a88cefa326666426e1281fedd6b9c": [
+    "docset\\performance\\wpt\\tracemergeproperty.md"
+  ],
+  "7c43e0dd0e10a4b41b0d248321ed904d16d3ca50": [
+    "docset\\performance\\wpt\\tracestats.md"
+  ],
+  "eb7faaa32a7cf535ebb18287e4e47f2f6121ba47": [
+    "docset\\performance\\wpt\\transitiontag.md"
+  ],
+  "4bc1e81ceef2f64ef778837394bbd0475c3f99f5": [
+    "docset\\performance\\wpt\\updateheaptrace.md"
+  ],
+  "79bc99e183acd3500f96e3ffb6ff58561afeafa7": [
+    "docset\\performance\\wpt\\update-icontrolmanager.md"
+  ],
+  "ebbb49e9d3bb94607a44f2b19017a789f804bec2": [
+    "docset\\performance\\wpt\\updateshutdownrecording.md"
+  ],
+  "29aad4ac666d322ab22c35d7031731960d824d29": [
+    "docset\\performance\\wpt\\using-clr-40-ngen-pdb-support.md"
+  ],
+  "94a4fa8874d000d2ae631e16c08d42f449b8d2c5": [
+    "docset\\performance\\wpt\\using-xperf-profiles.md"
+  ],
+  "8563df795dae237b9ef0e65f9719c9f849e3090b": [
+    "docset\\performance\\wpt\\view.md"
+  ],
+  "0670a0559971767693e967c9187ac82719906708": [
+    "docset\\performance\\wpt\\view-a-recording-status.md"
+  ],
+  "fdf76dad425f2be5c92c9c69f9015c279c0b6c74": [
+    "docset\\performance\\wpt\\view-profiles.md"
+  ],
+  "27c946f106c344217ad7987c101e669c6bad7d6d": [
+    "docset\\performance\\wpt\\view-system-and-recording-information.md"
+  ],
+  "41f1c89adca50d604b0cbdb2d5ffa07665fee89a": [
+    "docset\\performance\\wpt\\waitfortext.md"
+  ],
+  "4cd1085e78293789c4f1de77a32d670ecf9faee6": [
+    "docset\\performance\\wpt\\wakeupdelay.md"
+  ],
+  "c6339084b800f84f86a4e0c323af95302903f539": [
+    "docset\\performance\\wpt\\whats-new-in-the-windows-performance-toolkit.md"
+  ],
+  "23db527de1dcded6925a2230644a25a71fa86a52": [
+    "docset\\performance\\wpt\\windows-performance-analyzer.md"
+  ],
+  "3befdfa512dbc276c703b34c650700ea1c96a7bd": [
+    "docset\\performance\\wpt\\windows-performance-analyzer-common-scenarios.md"
+  ],
+  "d43eb70c8ac2e3912069c36ac208e9fd5415c1f6": [
+    "docset\\performance\\wpt\\windowsperformancerecorder.md"
+  ],
+  "4aa6a587520aa9678328b64c5df40f8775aac5e1": [
+    "docset\\performance\\wpt\\windows-performance-recorder.md"
+  ],
+  "b4017b0505c304a8c6d43c21027b60295bae0736": [
+    "docset\\performance\\wpt\\windows-performance-recorder-common-scenarios.md"
+  ],
+  "ca71f196ce0953051e3599bc4224d90262a90406": [
+    "docset\\performance\\wpt\\windows-performance-recorder-step-by-step-guide.md"
+  ],
+  "c55531757934e947368446b7994a226fd20a2810": [
+    "docset\\performance\\wpt\\windows-performance-step-by-step-guides.md"
+  ],
+  "c7984d8281f22051a930afa1bae6d27d42c1d41e": [
+    "docset\\performance\\wpt\\windows-performance-toolkit-technical-reference.md"
+  ],
+  "6c81b4efe383d50381d816e50a64146ce9a09fe2": [
+    "docset\\performance\\wpt\\windows-store-app-analysis.md"
+  ],
+  "0a87c937ebbc6abbe7a54588e4e19bd7f22717b1": [
+    "docset\\performance\\wpt\\winlogon.md"
+  ],
+  "a77a7ed5b31a591edb8e5e83b95aa09e74c8aee0": [
+    "docset\\performance\\wpt\\wpa-features.md"
+  ],
+  "8369762c37307e70011d16ad4d7f08bf91544c8f": [
+    "docset\\performance\\wpt\\wpa-in-product-getting-started-help.md"
+  ],
+  "7f4eab852d6b877be89b4e36fc1c16b52ab529a0": [
+    "docset\\performance\\wpt\\wpa-keyboard-shortcuts.md"
+  ],
+  "0ee241b413d08b5a139c1b32e909bde07c3d5ecc": [
+    "docset\\performance\\wpt\\wpa-query-syntax.md"
+  ],
+  "f436440f7a9283ee85dd5fc777184a25cb4ff0d6": [
+    "docset\\performance\\wpt\\wpa-quick-start-guide.md"
+  ],
+  "db37e1ca3ffe8a95da295216fc77ea9d5e020438": [
+    "docset\\performance\\wpt\\wpa-step-by-step-guide.md"
+  ],
+  "ca75843c684c910667cba7e5fe2a955a21eb4852": [
+    "docset\\performance\\wpt\\wpa-user-interface.md"
+  ],
+  "c2bd4d56cb37e4fa3b9e8c1243dbd03e1de4862e": [
+    "docset\\performance\\wpt\\wpr-command-line-options.md"
+  ],
+  "85d018b71255291c22f4b279bbb7776c90785241": [
+    "docset\\performance\\wpt\\wprcontrol-api-reference.md"
+  ],
+  "c258534ec55e54d1efbd4ef19d81e1c99a906f61": [
+    "docset\\performance\\wpt\\wprcontrolprofiles-schema.md"
+  ],
+  "9e14a098066b095feca70cd7d85108a2370ccbfd": [
+    "docset\\performance\\wpt\\wpr-features.md"
+  ],
+  "e99becf3848b2ea8c9b61a9fcfe2435704123049": [
+    "docset\\performance\\wpt\\wpr-quick-start.md"
+  ],
+  "43139b5fad72255b242334f426a649309527b7dd": [
+    "docset\\performance\\wpt\\wpr-reference.md"
+  ],
+  "dbda9c733ec210a726061b695233dd31d874c30c": [
+    "docset\\performance\\wpt\\wpt-getting-started-portal.md"
+  ],
+  "9860a1f1b265fb22448bb6e79b37b36899ef3a34": [
+    "docset\\performance\\wpt\\xperf-actions.md"
+  ],
+  "77ad0757b5c8b20f009646389269c58072d59a91": [
+    "docset\\performance\\wpt\\xperf-backward-compatibility-support.md"
+  ],
+  "f8d77544da6aeaf88ea804d4caa12136ffac6346": [
+    "docset\\performance\\wpt\\xperf-built-in-profiles.md"
+  ],
+  "1c71132b1fcb3e5038a30278cbe919658e83bc14": [
+    "docset\\performance\\wpt\\xperf-command-line-reference.md"
+  ],
+  "008f943dfe563147943c1042dbd91aeed4a7a201": [
+    "docset\\performance\\wpt\\xperf-options.md"
+  ],
+  "542515c5270083c0267ef964fb7d4089e18fa80e": [
+    "docset\\performance\\wpt\\xperf-profile-overview.md"
+  ],
+  "3f8c89d35dce2d62eac792f640f0c3fccd8571ca": [
+    "docset\\performance\\wpt\\xperf-profiles.md"
+  ],
+  "c550666fe67daf13f458f80d03212119940abfc3": [
+    "docset\\performance\\wpt\\zoom-in-on-a-time-interval.md"
+  ],
+  "7f32cfe01aa0e8595ef605ec1f9271b4ffb56433": [
+    "docset\\service\\desktop\\resetting-the-pc.md"
+  ],
+  "59ab1c7b684bc202841efc99f80a3b7483fdb13e": [
+    "docset\\service\\index.md"
+  ],
+  "43ffe0ebe885b31eebee99718de6d578ac95e31c": [
+    "docset\\service\\iot\\images\\genericpop.png"
+  ],
+  "e0032ac24bd187b2bf7826d64d32f4be48921460": [
+    "docset\\service\\iot\\images\\policy1.png"
+  ],
+  "1a648b728db8291909bd8bb1ad39ee3716990cec": [
+    "docset\\service\\iot\\images\\policy2.png"
+  ],
+  "8544981e1175e974b5d581f80486a3b67df3a7e7": [
+    "docset\\service\\iot\\images\\updateurl.png"
+  ],
+  "6062288a58521c93c12d226b1066526a1e908f95": [
+    "docset\\service\\iot\\index.md"
+  ],
+  "11ef267c8f71450255872271183217b3e1928969": [
+    "docset\\service\\iot\\iot-core-update.md"
+  ],
+  "865d2e1d9c63ee5410dfee01a90453879acbb62b": [
+    "docset\\service\\iot\\managing-iot-device-update.md"
+  ],
+  "35f03933ccbd19cfcd74df8ae9cd68b74df662b8": [
+    "docset\\service\\iot\\updating-iot-core-apps.md"
+  ],
+  "e06e095aa2d2c6bb7f25300eed4dad9fafad1f41": [
+    "docset\\service\\mobile\\approve-an-update.md"
+  ],
+  "39e85cbf39ceb6d1bfb85cbe89564360f16c4dc4": [
+    "docset\\service\\mobile\\enable-zero-rating--no-charge--downloads-for-device-updates.md"
+  ],
+  "06a89a5a708f46c9ecfcb67462cd06e0557db53e": [
+    "docset\\service\\mobile\\estimate-update-space.md"
+  ],
+  "61a9d21062fe275fa67dc5534d8edf6f741ba344": [
+    "docset\\service\\mobile\\ffu-catalog-signing.md"
+  ],
+  "ad072b6c6ccc6a60a52638b519b1bc2ffaa0a166": [
+    "docset\\service\\mobile\\get-requestforupdate-cmdlet.md"
+  ],
+  "8ace00f5a0452b18d2a157cafc9c9d0d6b8882d0": [
+    "docset\\service\\mobile\\get-signedfirmwaresubmission-cmdlet.md"
+  ],
+  "15b0a948c7235506ae338d8db277dbd4e717aaaf": [
+    "docset\\service\\mobile\\images\\ffucatalogsigning.jpg"
+  ],
+  "58734042caaae0ce7a4afa71c44b87eaf610838d": [
+    "docset\\service\\mobile\\images\\oem-internet-explorer-enhanced-security-configuration-1.png"
+  ],
+  "fb8cdc3a12b073f6f2251d543b451278ea5d603a": [
+    "docset\\service\\mobile\\images\\oem-internet-explorer-enhanced-security-configuration-2.png"
+  ],
+  "8b6b953a4780f21642f284d3a6022b6a703e108e": [
+    "docset\\service\\mobile\\images\\oem-preloaded-app.png"
+  ],
+  "608f349adffa2f05912d57fdf942fdf7dcbde693": [
+    "docset\\service\\mobile\\images\\oem-settings-app-registrya-s0-d1.png"
+  ],
+  "07619abe7c3dc5c15a39639b6790268e2e766abf": [
+    "docset\\service\\mobile\\images\\oem-settings-app-registry-regab-s0-d1.png"
+  ],
+  "287adc8fc007636e4c91e512043d1ec01a067451": [
+    "docset\\service\\mobile\\images\\oem-settings-app-registry-rega-s0-d0.png"
+  ],
+  "7c5ec402baa470bc98b8178fae5a07407853d444": [
+    "docset\\service\\mobile\\images\\oem-settings-app-registry-regb-s1-d1.png"
+  ],
+  "86a9135dad95a11d44963ff287348b0e785255ba": [
+    "docset\\service\\mobile\\images\\oem-update-.png"
+  ],
+  "8bde2fe1ade781c8f2ee145ce5f11c57149d9023": [
+    "docset\\service\\mobile\\images\\oem-update-notification-criticalupdate.png"
+  ],
+  "22012f72150cab0e3cfeaf3ae8129a278106d950": [
+    "docset\\service\\mobile\\images\\oem-update-notification-mandatoryupdate.png"
+  ],
+  "b1d757e5b2ae3ec4aa0e9f1aeafa9eafe02dc1aa": [
+    "docset\\service\\mobile\\images\\oem-update-overview.png"
+  ],
+  "02a54db29919bf4084b016594cb902ad923b434a": [
+    "docset\\service\\mobile\\images\\oem-update-submitanupdate.png"
+  ],
+  "605e60f69a4464187ba0b0c0a6bd4c99616303dd": [
+    "docset\\service\\mobile\\images\\ooem-settings-app-version-1-0.png"
+  ],
+  "0d8c5993468519c856de9f6364690f9ca59f9496": [
+    "docset\\service\\mobile\\index.md"
+  ],
+  "21e4ad274d71c61f12617273b253a00978e63045": [
+    "docset\\service\\mobile\\ingestion-client-for-windows-phone.md"
+  ],
+  "cb5a517cf651d2cf283ffd532623e19dffeddf8e": [
+    "docset\\service\\mobile\\initialize-firmwaresubmission-cmdlet.md"
+  ],
+  "8236c1716b7363659dab34ecf30217a80335f933": [
+    "docset\\service\\mobile\\new-firmwaresubmission-cmdlet.md"
+  ],
+  "ab949b531ae70622f17b41ece62c400f49d40a61": [
+    "docset\\service\\mobile\\new-requestformicrosoftupdate-cmdlet.md"
+  ],
+  "2150126a5aa09cfac3c515605a8fe704aab0a18b": [
+    "docset\\service\\mobile\\new-requestforupdate-cmdlet.md"
+  ],
+  "c3b53fae6837912090cf2e1ed15d057ba15f20e5": [
+    "docset\\service\\mobile\\partial-image-signing.md"
+  ],
+  "2982e51b3ba2b5482c5b6050a0200faaa8d6987b": [
+    "docset\\service\\mobile\\request-updatecancellation.md"
+  ],
+  "6c04a1ff2db362d28db7867751b8bf8592f99ce7": [
+    "docset\\service\\mobile\\resetting-the-phone.md"
+  ],
+  "84cd15066c1d324ea8bee1efa0d33d0438b66b84": [
+    "docset\\service\\mobile\\scan--download--and-install-updates.md"
+  ],
+  "0dc197c2806247209e1f088406b82291db1b81d6": [
+    "docset\\service\\mobile\\submit-an-update.md"
+  ],
+  "c36989fe3c43d157a803c3e99ebaf9309613053a": [
+    "docset\\service\\mobile\\system-settings-apps-and-updates.md"
+  ],
+  "738bf9ab64ed49400875fa688f70f4a15401f557": [
+    "docset\\service\\mobile\\test-an-update.md"
+  ],
+  "64396952a2a0912dd8d8348273da6292e377b07c": [
+    "docset\\service\\mobile\\update-a-kmdf-device-driver.md"
+  ],
+  "144e16c68100f2ab2701eca337ce2f9595764ee6": [
+    "docset\\service\\mobile\\update-requirements.md"
+  ],
+  "07a99c6f06b804afa9a090c21003fc463dddd946": [
+    "docset\\service\\mobile\\updates-and-resetting-the-phone.md"
+  ],
+  "5006ab63fa04814498bb5b337634781aac176e97": [
+    "docset\\service\\mobile\\update-scenarios.md"
+  ],
+  "2e0ffda64283d56ad761fa202681c131da254104": [
+    "docset\\service\\mobile\\updates-to-preloaded-apps-and-services.md"
+  ],
+  "4503cd642fa9346609f8f400d3a930148588a190": [
+    "docset\\service\\mobile\\upgrade-windows-embedded-devices-to-windows-10.md"
+  ],
+  "0f354226eae0445d2513e7f4b88a15ac6e5dac3e": [
+    "docset\\service\\mobile\\using-provisioning-files-to-update-registry-settings-that-may-change.md"
+  ],
+  "0b34fef853fc3e33f4bb972fbfd5f7b0dce72fef": [
+    "docset\\TOC.md"
+  ]
+}
